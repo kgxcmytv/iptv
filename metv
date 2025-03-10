@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影01
+http://1.94.31.214:35455/huya/11342414
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影02
+http://1.94.31.214:35455/huya/11342419
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影03
+http://1.94.31.214:35455/huya/11342395
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影04
+http://1.94.31.214:35455/huya/11342429
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影05
+http://1.94.31.214:35455/huya/11352886
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影06
+http://1.94.31.214:35455/huya/11352905
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影07
+http://1.94.31.214:35455/huya/11352909
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影08
+http://1.94.31.214:35455/huya/11352934
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影09
+http://1.94.31.214:35455/huya/11352945
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影10
+http://1.94.31.214:35455/huya/11352949
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影11
+http://1.94.31.214:35455/huya/11352962
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影12
+http://1.94.31.214:35455/huya/11352965
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影13
+http://1.94.31.214:35455/huya/11352973
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影14
+http://1.94.31.214:35455/huya/11352952
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影1(英语)
+http://1.94.31.214:35455/huya/11352880
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/电影.png" group-title="电影轮播",电影2(英语)
+http://1.94.31.214:35455/huya/11352908
