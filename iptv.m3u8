@@ -855,11 +855,11 @@ http://www.douzhicloud.site:35455/huya/11601977
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",蘑菇影厅
 http://www.douzhicloud.site:35455/huya/11601981
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",冰冰影厅
-https://www.goodiptv.club/douyu/74374
+http://b.zgjok.com:35455/douyu/74374
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",米虫影院
-http://www.douzhicloud.site:35455/douyu/315457
+http://b.zgjok.com:35455/douyu/315457
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",奶虫影院
-https://www.goodiptv.club/douyu/263824
+http://b.zgjok.com:35455/douyu/263824
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",哈利波特合集
 http://www.douzhicloud.site:35455/huya/29982669
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/1905.png" group-title="电影轮播",1905电影网
@@ -914,11 +914,17 @@ http://www.douzhicloud.site:35455/huya/11352948
 
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/平凡之路.png" group-title="电视剧轮播",平凡之路2023
 http://www.douzhicloud.site:35455/huya/30080139
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/扫黑风暴.png" group-title="电视剧轮播",扫黑风暴
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/三叉戟.png" group-title="电视剧轮播",三叉戟2020
+http://www.douzhicloud.site:35455/huya/29465883
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/扫黑风暴.png" group-title="电视剧轮播",扫黑风暴2021
 http://www.douzhicloud.site:35455/huya/11342404
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/猎罪图鉴.png" group-title="电视剧轮播",猎罪图鉴2022
+http://www.douzhicloud.site:35455/huya/11601962
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
+http://43.138.0.72:35455/yy/1354936131
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
 http://43.138.0.72:35455/yy/1355142167
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
 https://www.goodiptv.club/yy/1355142167
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/猎冰.png" group-title="电视剧轮播",猎冰2024
 http://www.douzhicloud.site:35455/huya/26355764
@@ -952,10 +958,16 @@ http://43.138.0.72:35455/yy/1382736883
 http://43.138.0.72:35455/yy/1382749906
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/小时代.png" group-title="电视剧轮播",小时代
 http://www.douzhicloud.site:35455/huya/11352877
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/欢乐颂.png" group-title="电视剧轮播",欢乐颂
-
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/问心.png" group-title="电视剧轮播",问心
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/欢乐颂.png" group-title="电视剧轮播",欢乐颂2016
+http://www.douzhicloud.site:35455/huya/29982666
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/启航：当风起时.png" group-title="电视剧轮播",启航：当风起时2021
+http://www.douzhicloud.site:35455/huya/30080248
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/总裁误宠替身甜妻.png" group-title="电视剧轮播",总裁误宠替身甜妻2017
+http://www.douzhicloud.site:35455/huya/30375485
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/问心.png" group-title="电视剧轮播",问心2023
 http://www.douzhicloud.site:35455/huya/11352890
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/外科风云.png" group-title="电视剧轮播",外科风云2017
+http://www.douzhicloud.site:35455/huya/29982672
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/亲爱的热爱的.png" group-title="电视剧轮播",亲爱的热爱的2019
 http://www.douzhicloud.site:35455/huya/29982671
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/穿越火线.png" group-title="电视剧轮播",穿越火线2020
@@ -992,6 +1004,8 @@ http://www.douzhicloud.site:35455/huya/11352895
 http://www.douzhicloud.site:35455/huya/11352892
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/将液.png" group-title="电视剧轮播",将液
 http://www.douzhicloud.site:35455/huya/11352885
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/楚乔传.png" group-title="电视剧轮播",楚乔传2017
+http://www.douzhicloud.site:35455/huya/19285234
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/花千骨.png" group-title="电视剧轮播",花千骨
 http://www.douzhicloud.site:35455/huya/26355839
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/诛仙.png" group-title="电视剧轮播",诛仙
@@ -1025,7 +1039,7 @@ http://43.138.0.72:35455/yy/1354930964
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的团长我的团.png" group-title="电视剧轮播",我的团长我的团
 http://www.douzhicloud.site:35455/huya/11352910
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/雪豹.png" group-title="电视剧轮播",雪豹
-http://159.75.85.63:35455/douyu/11863823
+http://b.zgjok.com:35455/douyu/11863823
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新雪豹.png" group-title="电视剧轮播",新雪豹
 http://www.douzhicloud.site:35455/huya/29580970
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/黑狐之风影.png" group-title="电视剧轮播",黑狐之风影
@@ -1036,7 +1050,9 @@ http://43.138.0.72:35455/yy/22089862
 http://www.douzhicloud.site:35455/huya/11602042
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/铁道游击队.png" group-title="电视剧轮播",铁道游击队
 http://www.douzhicloud.site:35455/huya/11352936
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/渗透.png" group-title="电视剧轮播",渗透
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/光荣时代.png" group-title="电视剧轮播",光荣时代2019
+http://www.douzhicloud.site:35455/huya/30080193
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/渗透.png" group-title="电视剧轮播",渗透2013
 http://www.douzhicloud.site:35455/huya/30080244
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/风筝.png" group-title="电视剧轮播",风筝2013
 http://www.douzhicloud.site:35455/huya/30080225
@@ -1044,6 +1060,8 @@ http://www.douzhicloud.site:35455/huya/30080225
 http://www.douzhicloud.site:35455/huya/30307439
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的绝密生涯.png" group-title="电视剧轮播",我的绝密生涯2014
 http://www.douzhicloud.site:35455/huya/30312372
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/红色.png" group-title="电视剧轮播",红色2014
+http://www.douzhicloud.site:35455/huya/26355845
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/伪装者.png" group-title="电视剧轮播",伪装者
 http://43.138.0.72:35455/yy/1354936244
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/伪装者.png" group-title="电视剧轮播",伪装者
@@ -1068,6 +1086,10 @@ http://www.douzhicloud.site:35455/huya/23749083
 http://www.douzhicloud.site:35455/huya/29580971
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/乔家的儿女.png" group-title="电视剧轮播",乔家的儿女2021
 http://www.douzhicloud.site:35455/huya/29982622
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鸡毛飞上天.png" group-title="电视剧轮播",鸡毛飞上天2015
+http://www.douzhicloud.site:35455/huya/29982664
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/正阳门下.png" group-title="电视剧轮播",正阳门下2013
+http://43.138.0.72:35455/yy/1382851588
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/情满四合院.png" group-title="电视剧轮播",情满四合院
 http://www.douzhicloud.site:35455/huya/11342426
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/父辈的荣耀.png" group-title="电视剧轮播",父辈的荣耀
@@ -1248,63 +1270,67 @@ http://www.douzhicloud.site:35455/huya/11336725
 http://www.douzhicloud.site:35455/huya/11352875
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",咱们穿越吧
 http://www.douzhicloud.site:35455/huya/11352907
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",天赐声音
+http://www.douzhicloud.site:35455/huya/20985836
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",小莉帮忙
 http://www.douzhicloud.site:35455/huya/11352880
 
-#德云社开箱&封箱
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社乙巳年开箱庆典2025
+#德云社
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社鼓曲专场天津站2021
+https://cdn5.ryplay5.com/20240818/5288_70cf47a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社乙巳年开箱庆典2025
 https://cdn.ryplay10.com/20250217/36983_be819738/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社庚子年开箱庆典2020
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社庚子年开箱庆典2020
 https://cdn5.ryplay5.com/20240816/4883_5812bfdb/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社己亥年开箱庆典2019
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社己亥年开箱庆典2019
 https://cdn5.ryplay5.com/20240814/4171_bcf401c0/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社戊戌年开箱庆典2018
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社戊戌年开箱庆典2018
 https://cdn5.ryplay5.com/20240809/2523_541ca796/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社丁酉年开箱庆典2017
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社丁酉年开箱庆典2017
 https://cdn5.ryplay5.com/20240808/2256_70f3a88c/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社丙申年开箱庆典2016
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社丙申年开箱庆典2016
 https://m3u8.heimuertv.com/play/ab5ebee5af16435faf278f7276a00e58.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社丙申年开箱庆典2016
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社丙申年开箱庆典2016
 https://cdn5.ryplay5.com/20240805/1129_e958bffa/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社乙未年开箱庆典2015
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社乙未年开箱庆典2015
 https://m3u8.heimuertv.com/play/2435f6b3be954c199b89e6ed63bef1b0.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社乙未年开箱庆典2015
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社乙未年开箱庆典2015
 https://cdn5.ryplay5.com/20240805/1118_d6d03804/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 开箱",德云社甲午年开箱庆典2014
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社甲午年开箱庆典2014
 https://cdn5.ryplay5.com/20240805/1121_35592652/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社甲辰年封箱庆典2024
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社甲辰年封箱庆典2024
 https://cdn.ryplay10.com/20250125/35961_cf038721/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社庚子年封箱庆典第一场2021
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社庚子年封箱庆典第一场2021
 https://m3u8.heimuertv.com/play/af29438b200e49279c42f3e5c6af423d.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社庚子年封箱庆典第一场2021
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社庚子年封箱庆典第一场2021
 https://cdn5.ryplay5.com/20240818/5302_d70de9a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社庚子年封箱庆典第二场2021
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社庚子年封箱庆典第二场2021
 https://m3u8.heimuertv.com/play/0061a489e30b4d1bb3f62333bd01901b.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社庚子年封箱庆典第二场2021
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社庚子年封箱庆典第二场2021
 https://cdn5.ryplay5.com/20240818/5283_5c8d73aa/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社己亥年封箱庆典2020
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社己亥年封箱庆典2020
 https://m3u8.heimuertv.com/play/90258d6bd19a4a4a8661490c56ca22e5.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社己亥年封箱庆典2020
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社己亥年封箱庆典2020
 https://cdn5.ryplay5.com/20240815/4343_443265d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社戊戌年封箱庆典2019
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社戊戌年封箱庆典2019
 https://cdn5.ryplay5.com/20240811/2954_c2a026ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社丁酉年封箱庆典2018
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社丁酉年封箱庆典2018
 https://cdn5.ryplay5.com/20240809/2598_2355659d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社丙申年封箱庆典2017
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社丙申年封箱庆典2017
 https://cdn5.ryplay5.com/20240805/1131_3115d6c0/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社乙未年封箱庆典2016
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社乙未年封箱庆典2016
 https://m3u8.heimuertv.com/play/b68d7d2538fd475ab23e1425dd8c1dc4.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社乙未年封箱庆典2016
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社乙未年封箱庆典2016
 https://cdn5.ryplay5.com/20240806/1663_363c3563/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社甲午岁末封箱专场演出2015
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社甲午岁末封箱专场演出2015
 https://m3u8.heimuertv.com/play/81b6e06cc0cc4f46826e74f552fc0c94.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社甲午岁末封箱专场演出2015
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社甲午岁末封箱专场演出2015
 https://cdn5.ryplay5.com/20240805/1122_29382e1b/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社癸巳年封箱庆典201401
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社癸巳年封箱庆典201401
 https://cdn5.ryplay5.com/20240801/32_1f2b1d32/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社癸巳年封箱庆典201402
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社癸巳年封箱庆典201402
 https://cdn5.ryplay5.com/20240801/31_332c4b95/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社 | 封箱",德云社癸巳年封箱庆典201403
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社癸巳年封箱庆典201403
 https://cdn5.ryplay5.com/20240801/30_33b3cde6/index.m3u8
 
 #埋堆堆频道
@@ -1317,7 +1343,7 @@ http://www.douzhicloud.site:35455/huya/29465860
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",西游记2
 http://www.douzhicloud.site:35455/huya/29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",鹿鼎记
-http://www.douzhicloud.site:35455/huya/28265277
+http://43.138.0.72:35455/yy/1382704650
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",鹿鼎记
 http://43.138.0.72:35455/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",寻秦记
@@ -1965,57 +1991,8 @@ https://c1.ddbbffcdn.com/video/replacesirikk9/20240604t8bn8ilGindex.m3u8/index.m
 #EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II36
 https://c1.ddbbffcdn.com/video/replacesirikk9/20240604OUILykQMindex.m3u8/index.m3u8
 
-尘封十三载#group#
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第01集
-https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第02集
-https://hd.lz-cdn18.com/20230406/1700_691f2e08/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第03集
-https://hd.lz-cdn18.com/20230406/1699_2f8cac84/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第04集
-https://hd.lz-cdn18.com/20230406/1698_cfd2eac2/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第05集
-https://vip.lzcdn2.com/20230407/25103_b92c794a/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第06集
-https://vip.lzcdn2.com/20230407/25102_05aa2477/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第07集
-https://hd.lz-cdn18.com/20230408/1756_c62d07d8/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第08集
-https://hd.lz-cdn18.com/20230408/1755_d22edf2b/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第09集
-https://vip.lzcdn2.com/20230409/25141_b85f9b8d/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第10集
-https://vip.lzcdn2.com/20230409/25140_584a8930/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载",尘封十三载第11集
-https://hd.lz-cdn18.com/20230410/1780_d7941636/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第12集
-https://hd.lz-cdn18.com/20230410/1779_4b4740a1/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第13集
-https://vip.lzcdn2.com/20230411/25176_02a2ce33/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第14集
-https://vip.lzcdn2.com/20230411/25175_95075a3c/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第15集
-https://hd.lz-cdn18.com/20230412/1820_28387e68/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第16集
-https://hd.lz-cdn18.com/20230412/1819_1186150c/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第17集
-https://vip.lzcdn2.com/20230413/25210_d63b081b/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第18集
-https://vip.lzcdn2.com/20230413/25209_25921bc5/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第19集
-https://hd.lz-cdn18.com/20230414/1890_56f684b8/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第20集
-https://hd.lz-cdn18.com/20230414/1889_bac26094/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第21集
-https://vip.lzcdn2.com/20230415/25244_a551c726/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第22集
-https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第23集
-https://hd.lz-cdn18.com/20230416/1926_6c185945/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载" tvg-id="尘封十三载" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/尘封十三载.png" group-title="尘封十三载", 尘封十三载第24集
-
 #音乐频道
-#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/音乐.png" group-title="音乐频道",周杰伦MV
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/周杰伦.png" group-title="音乐频道",周杰伦MV
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陈奕迅.png" group-title="音乐频道",陈奕迅MV
 http://www.douzhicloud.site:35455/huya/26355846
