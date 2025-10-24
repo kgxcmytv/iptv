@@ -576,94 +576,96 @@ https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e3
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 #国漫频道
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/诛仙.png" group-title="国漫频道",诛仙
+https://www.goodiptv.club/huya/23728595
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/一人之下.png" group-title="国漫频道",一人之下
-http://www.douzhicloud.site:35455/huya/11352869
+https://www.goodiptv.club/huya/11352869
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/从前有座灵剑山.png" group-title="国漫频道",从前有座灵剑山
-http://www.douzhicloud.site:35455/huya/11352896
+https://www.goodiptv.club/huya/11352896
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狐妖小红娘.png" group-title="国漫频道",狐妖小红娘
-http://www.douzhicloud.site:35455/huya/11352967
+https://www.goodiptv.club/huya/11352967
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/魔道祖师.png" group-title="国漫频道",魔道祖师
-http://www.douzhicloud.site:35455/huya/30080217
+https://www.goodiptv.club/huya/30080217
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/武庚纪II天启.png" group-title="国漫频道",武庚纪II天启
-http://www.douzhicloud.site:35455/huya/26355862
+https://www.goodiptv.club/huya/26355862
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/斗破苍穹.png" group-title="国漫频道",斗破苍穹
-http://www.douzhicloud.site:35455/huya/11336572
+https://www.goodiptv.club/huya/11336572
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/斗罗大陆.png" group-title="国漫频道",斗罗大陆
-http://www.douzhicloud.site:35455/huya/11352906
+https://www.goodiptv.club/huya/11352906
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/斗罗大陆.png" group-title="国漫频道",斗罗大陆
-http://www.douzhicloud.site:35455/huya/29465865
+https://www.goodiptv.club/huya/29465865
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神印王座.png" group-title="国漫频道",神印王座
-http://www.douzhicloud.site:35455/huya/26355828
+https://www.goodiptv.club/huya/26355828
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/完美世界.png" group-title="国漫频道",完美世界
-http://www.douzhicloud.site:35455/huya/11336579
+https://www.goodiptv.club/huya/11336579
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/全职法师.png" group-title="国漫频道",全职法师
-http://www.douzhicloud.site:35455/huya/26355772
+https://www.goodiptv.club/huya/26355772
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/成龙历险记.png" group-title="国漫频道",成龙历险记
-http://www.douzhicloud.site:35455/huya/11352946
+https://www.goodiptv.club/huya/11352946
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/民调局异闻录.png" group-title="国漫频道",民调局异闻录
-http://www.douzhicloud.site:35455/huya/26355820
+https://www.goodiptv.club/huya/26355820
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大理寺日志.png" group-title="国漫频道",大理寺日志
-http://www.douzhicloud.site:35455/huya/23734256
+https://www.goodiptv.club/huya/23734256
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/那年那兔那些事儿.png" group-title="国漫频道",那年那兔那些事儿
-http://www.douzhicloud.site:35455/huya/30080142
+https://www.goodiptv.club/huya/30080142
 
 #日漫频道
 #EXTINF:-1 tvg-id="航海王" tvg-name="航海王" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/航海王.png" group-title="日漫频道",航海王
-http://www.douzhicloud.site:35455/huya/16913382
+https://www.goodiptv.club/huya/16913382
 #EXTINF:-1 tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/名侦探柯南.png" group-title="日漫频道",名侦探柯南
-http://www.douzhicloud.site:35455/huya/26355804
+https://www.goodiptv.club/huya/26355804
 #EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/火影忍者.png" group-title="日漫频道",火影忍者
-http://www.douzhicloud.site:35455/huya/29465866
+https://www.goodiptv.club/huya/29465866
 #EXTINF:-1 tvg-id="火影忍者1" tvg-name="火影忍者1" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/火影忍者1.png" group-title="日漫频道",火影忍者1
-http://www.douzhicloud.site:35455/huya/11342385
+https://www.goodiptv.club/huya/11342385
 #EXTINF:-1 tvg-id="火影忍者续集" tvg-name="火影忍者续集" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/火影忍者续集.png" group-title="日漫频道",火影忍者续集
 http://www.douzhicloud.site:35455/huya/11352974
 #EXTINF:-1 tvg-id="火影忍者续集" tvg-name="火影忍者续集" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/火影忍者续集.png" group-title="日漫频道",火影忍者续集
 https://www.goodiptv.club/huya/11352974
 #EXTINF:-1 tvg-id="宠物小精灵1" tvg-name="宠物小精灵1" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/宠物小精灵1.png"  group-title="日漫频道",宠物小精灵1
-http://www.douzhicloud.site:35455/huya/29465874
+https://www.goodiptv.club/huya/29465874
 #EXTINF:-1 tvg-id="宠物小精灵" tvg-name="宠物小精灵" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/宠物小精灵.png" group-title="日漫频道",宠物小精灵
-http://www.douzhicloud.site:35455/huya/23749096
+https://www.goodiptv.club/huya/23749096
 #EXTINF:-1 tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/樱桃小丸子.png" group-title="日漫频道",樱桃小丸子
-http://www.douzhicloud.site:35455/huya/11342394
+https://www.goodiptv.club/huya/11342394
 #EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蜡笔小新.png" group-title="日漫频道",蜡笔小新(线路1)
-http://www.douzhicloud.site:35455/huya/30837590
+https://www.goodiptv.club/huya/30837590
 #EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蜡笔小新.png" group-title="日漫频道",蜡笔小新(线路2)
-http://www.douzhicloud.site:35455/huya/11352970
+https://www.goodiptv.club/huya/11352970
 #EXTINF:-1 tvg-id="夏目友人帐" tvg-name="夏目友人帐" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/夏目友人帐.png" group-title="日漫频道",夏目友人帐
-http://www.douzhicloud.site:35455/huya/23865058
+https://www.goodiptv.club/huya/23865058
 #EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/七龙珠.png" group-title="日漫频道",七龙珠
-http://www.douzhicloud.site:35455/huya/11601966
+https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/灌篮高手.png" group-title="日漫频道",灌篮高手
 http://43.138.0.72:35455/yy/1382735626
 #EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/灌篮高手.png" group-title="日漫频道",灌篮高手
 http://jiaojirentv.top/2020/yy.php?id=1382735626
 #EXTINF:-1 tvg-id="快把我哥带走" tvg-name="快把我哥带走" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/快把我哥带走.png" group-title="日漫频道",快把我哥带走
-http://www.douzhicloud.site:35455/huya/23734246
+https://www.goodiptv.club/huya/23734246
 #EXTINF:-1 tvg-id="哆啦A梦" tvg-name="哆啦A梦" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/哆啦A梦.png" group-title="日漫频道",哆啦A梦
-http://www.douzhicloud.site:35455/huya/11601963
+https://www.goodiptv.club/huya/11601963
 #EXTINF:-1 tvg-id="哆啦A梦" tvg-name="哆啦A梦" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/哆啦A梦.png" group-title="日漫频道",哆啦A梦(粤语)
-http://www.douzhicloud.site:35455/huya/11352878
+https://www.goodiptv.club/huya/11352878
 #EXTINF:-1 tvg-id="头文字D" tvg-name="头文字D" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/头文字D.png" group-title="日漫频道",头文字D
-http://www.douzhicloud.site:35455/huya/11352889
+https://www.goodiptv.club/huya/11352889
 #EXTINF:-1 tvg-id="四驱兄弟" tvg-name="四驱兄弟" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/四驱兄弟.png" group-title="日漫频道",四驱兄弟
-http://www.douzhicloud.site:35455/huya/11352922
+https://www.goodiptv.club/huya/11352922
 #EXTINF:-1 tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/网球王子.png" group-title="日漫频道",网球王子
-http://www.douzhicloud.site:35455/huya/11352882
+https://www.goodiptv.club/huya/11352882
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/中华小当家.png" group-title="日漫频道",中华小当家
-http://www.douzhicloud.site:35455/huya/11342413
+https://www.goodiptv.club/huya/11342413
 #EXTINF:-1 tvg-id="魔法少女" tvg-name="魔法少女" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/魔法少女.png" group-title="日漫频道",魔法少女
 https://live.metshop.top/huya/21059587
 
 #动画频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/哪吒传奇.png" group-title="动画频道",哪吒传奇
-http://www.douzhicloud.site:35455/huya/26355782
+https://www.goodiptv.club/huya/26355782
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜羊羊与灰太狼.png" group-title="动画频道",喜羊羊与灰太狼
-http://www.douzhicloud.site:35455/huya/23865080
+https://www.goodiptv.club/huya/23865080
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/猫和老鼠.png" group-title="动画频道",猫和老鼠
-http://www.douzhicloud.site:35455/huya/11352879
+https://www.goodiptv.club/huya/11352879
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/海绵宝宝.png" group-title="动画频道",海绵宝宝
-http://www.douzhicloud.site:35455/huya/11352919
+https://www.goodiptv.club/huya/11352919
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/东森幼幼.png" group-title="动画频道",东森幼幼
 http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/龙华卡通.png" group-title="动画频道",龙华卡通
@@ -671,19 +673,19 @@ http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
 
 #电影轮播
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/周润发.png" group-title="电影轮播",周润发电影
-http://www.douzhicloud.site:35455/huya/11342387
+https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/成龙.png" group-title="电影轮播",成龙电影
-http://www.douzhicloud.site:35455/huya/11342386
+https://www.goodiptv.club/huya/11342386
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/成龙.png" group-title="电影轮播",成龙电影
-http://www.douzhicloud.site:35455/huya/3379942
+https://www.goodiptv.club/huya/3379942
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/周星驰.png" group-title="电影轮播",周星驰电影
-http://www.douzhicloud.site:35455/huya/11342412
+https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/周星驰.png" group-title="电影轮播",周星驰电影
 https://live.metshop.top/huya/11342412
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/周星驰.png" group-title="电影轮播",周星驰电影
 http://124.248.69.76:26781/huya/11342412
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/林正英.png" group-title="电影轮播",林正英电影
-http://www.douzhicloud.site:35455/huya/11342421
+https://www.goodiptv.club/huya/11342421
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/林正英.png" group-title="电影轮播",林正英电影
 https://live.metshop.top/huya/11342421
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/林正英.png" group-title="电影轮播",林正英电影
@@ -691,159 +693,159 @@ http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/洪金宝.png" group-title="电影轮播",洪金宝电影
 https://live.metshop.top/huya/11279251
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/洪金宝.png" group-title="电影轮播",洪金宝电影
-http://www.douzhicloud.site:35455/huya/11279251
+https://www.goodiptv.club/huya/11279251
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/刘德华.png" group-title="电影轮播",刘德华电影
-http://www.douzhicloud.site:35455/huya/11342424
+https://www.goodiptv.club/huya/11342424
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/刘德华.png" group-title="电影轮播",刘德华电影
 http://124.248.69.76:26781/huya/11342424
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/古天乐.png" group-title="电影轮播",古天乐电影
-http://www.douzhicloud.site:35455/huya/29982675
+https://www.goodiptv.club/huya/29982675
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/李连杰.png" group-title="电影轮播",李连杰电影
-http://www.douzhicloud.site:35455/huya/11342390
+https://www.goodiptv.club/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/李连杰.png" group-title="电影轮播",李连杰电影
 https://live.metshop.top/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/李连杰.png" group-title="电影轮播",李连杰电影
 http://124.248.69.76:26781/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/甄子丹.png" group-title="电影轮播",甄子丹电影
-http://www.douzhicloud.site:35455/huya/11352935
+https://www.goodiptv.club/huya/11352935
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/甄子丹.png" group-title="电影轮播",甄子丹电影
 http://124.248.69.76:26781/huya/11352935
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/梁家辉.png" group-title="电影轮播",梁家辉电影
-http://www.douzhicloud.site:35455/huya/11342429
+https://www.goodiptv.club/huya/11342429
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/梁家辉.png" group-title="电影轮播",梁家辉电影
 http://124.248.69.76:26781/huya/11342429
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/梁家辉.png" group-title="电影轮播",梁家辉电影
 https://live.metshop.top/huya/11342429
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/孙红雷.png" group-title="电影轮播",孙红雷电影
-http://www.douzhicloud.site:35455/huya/11352917
+https://www.goodiptv.club/huya/11352917
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沈腾.png" group-title="电影轮播",沈腾电影
-http://www.douzhicloud.site:35455/huya/11601968
+https://www.goodiptv.club/huya/11601968
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沈腾.png" group-title="电影轮播",沈腾电影
 https://live.metshop.top/huya/11601968
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/贾玲.png" group-title="电影轮播",贾玲电影
-http://www.douzhicloud.site:35455/huya/30080235
+https://www.goodiptv.club/huya/30080235
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/黄渤.png" group-title="电影轮播",黄渤电影
-http://www.douzhicloud.site:35455/huya/11352876
+https://www.goodiptv.club/huya/11352876
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/王晶.png" group-title="电影轮播",王晶电影
-http://www.douzhicloud.site:35455/huya/11602058
+https://www.goodiptv.club/huya/11602058
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/强森.png" group-title="电影轮播",强森电影
-http://www.douzhicloud.site:35455/huya/21059581
+https://www.goodiptv.club/huya/21059581
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/强森.png" group-title="电影轮播",强森电影
 http://124.248.69.76:26781/huya/21059581
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/斯坦森.png" group-title="电影轮播",斯坦森电影
-http://www.douzhicloud.site:35455/huya/21059588
+https://www.goodiptv.club/huya/21059588
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/女神电影.png" group-title="电影轮播",女神电影
-http://www.douzhicloud.site:35455/huya/11336571
+https://www.goodiptv.club/huya/11336571
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/许氏三杰.png" group-title="电影轮播",许氏三杰电影
-http://www.douzhicloud.site:35455/huya/11602033
+https://www.goodiptv.club/huya/11602033
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/许氏三杰.png" group-title="电影轮播",许氏三杰电影
 https://live.metshop.top/huya/11602033
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/经典系列开心鬼.png" group-title="电影轮播",经典系列开心鬼
-http://www.douzhicloud.site:35455/huya/353798
+https://www.goodiptv.club/huya/353798
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/赌神.png" group-title="电影轮播",赌神电影
-http://www.douzhicloud.site:35455/huya/11342399
+https://www.goodiptv.club/huya/11342399
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/古惑仔.png" group-title="电影轮播",古惑仔电影
-http://www.douzhicloud.site:35455/huya/11336719
+https://www.goodiptv.club/huya/11336719
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/霸王花.png" group-title="电影轮播",霸王花电影
-http://www.douzhicloud.site:35455/huya/11352909
+https://www.goodiptv.club/huya/11352909
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/金庸.png" group-title="电影轮播",金庸武侠
-http://www.douzhicloud.site:35455/huya/11342435
+https://www.goodiptv.club/huya/11342435
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/金庸.png" group-title="电影轮播",金庸武侠
 https://live.metshop.top/huya/11342435
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",经典老港片
-http://www.douzhicloud.site:35455/huya/11352965
+https://www.goodiptv.club/huya/11352965
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",经典老港片
 https://live.metshop.top/huya/11352965
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/功夫电影.png" group-title="电影轮播",功夫电影
-http://www.douzhicloud.site:35455/huya/11352941
+https://www.goodiptv.club/huya/11352941
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/功夫电影.png" group-title="电影轮播",功夫电影
 https://live.metshop.top/huya/11352941
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/功夫电影.png" group-title="电影轮播",功夫电影
 http://124.248.69.76:26781/huya/11352941
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",狄仁杰电影
-http://www.douzhicloud.site:35455/huya/11352973
+https://www.goodiptv.club/huya/11352973
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/贺岁电影.png" group-title="电影轮播",贺岁电影1
 https://live.metshop.top/huya/11601986
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/贺岁电影.png" group-title="电影轮播",贺岁电影1
-http://www.douzhicloud.site:35455/huya/11601986
+https://www.goodiptv.club/huya/11601986
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/贺岁电影.png" group-title="电影轮播",贺岁电影2
-http://www.douzhicloud.site:35455/huya/11601971
+https://www.goodiptv.club/huya/11601971
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",玄幻电影
-http://www.douzhicloud.site:35455/huya/11342414
+https://www.goodiptv.club/huya/11342414
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",玄幻电影
 http://124.248.69.76:26781/huya/11342414
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",玄幻电影
 https://live.metshop.top/huya/11342414
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/盗墓电影.png" group-title="电影轮播",古墓系列电影
-http://www.douzhicloud.site:35455/huya/11352913
+https://www.goodiptv.club/huya/11352913
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/盗墓电影.png" group-title="电影轮播",盗墓电影2
-http://www.douzhicloud.site:35455/huya/21059552
+https://www.goodiptv.club/huya/21059552
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/谍战电影.png" group-title="电影轮播",谍战电影
-http://www.douzhicloud.site:35455/huya/21059585
+https://www.goodiptv.club/huya/21059585
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",海盗电影
-http://www.douzhicloud.site:35455/huya/21059595
+https://www.goodiptv.club/huya/21059595
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",终结者电影
-http://www.douzhicloud.site:35455/huya/21059574
+https://www.goodiptv.club/huya/21059574
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",终结者电影
 http://124.248.69.76:26781/huya/21059574
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",怪兽电影1
 http://124.248.69.76:26781/huya/21059577
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",怪兽电影1
-http://www.douzhicloud.site:35455/huya/21059577
+https://www.goodiptv.club/huya/21059577
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",怪兽电影
 https://live.metshop.top/huya/21059554
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",警匪电影
-http://www.douzhicloud.site:35455/huya/11352886
+https://www.goodiptv.club/huya/11352886
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",罪犯电影
-http://www.douzhicloud.site:35455/huya/11352962
+https://www.goodiptv.club/huya/11352962
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",罪犯电影
 https://live.metshop.top/huya/11352962
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",热血电影
-http://www.douzhicloud.site:35455/huya/11352934
+https://www.goodiptv.club/huya/11352934
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",热血电影
 https://live.metshop.top/huya/11352934
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/周星驰.png" group-title="电影轮播",周星驰粤语电影
-http://www.douzhicloud.site:35455/huya/11336587
+https://www.goodiptv.club/huya/11336587
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/粤语.png" group-title="电影轮播",粤语电影
-http://www.douzhicloud.site:35455/huya/11352894
+https://www.goodiptv.club/huya/11352894
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/邵氏影院.png" group-title="电影轮播",邵氏电影
-http://www.douzhicloud.site:35455/huya/4246519
+https://www.goodiptv.club/huya/4246519
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/生化危机.png" group-title="电影轮播",生化危机
-http://www.douzhicloud.site:35455/huya/11342422
+https://www.goodiptv.club/huya/11342422
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/死神来了.png" group-title="电影轮播",死神来了
-http://www.douzhicloud.site:35455/huya/11352903
+https://www.goodiptv.club/huya/11352903
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/死侍.png" group-title="电影轮播",死侍电影
-http://www.douzhicloud.site:35455/huya/9651304
+https://www.goodiptv.club/huya/9651304
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/超异能.png" group-title="电影轮播",超异能电影
-http://www.douzhicloud.site:35455/huya/21059586
+https://www.goodiptv.club/huya/21059586
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",超级英雄电影
-http://www.douzhicloud.site:35455/huya/26355829
+https://www.goodiptv.club/huya/26355829
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/银河护卫队.png" group-title="电影轮播",银河护卫队
-http://www.douzhicloud.site:35455/huya/11352950
+https://www.goodiptv.club/huya/11352950
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/漫威电影.png" group-title="电影轮播",漫威电影
-http://www.douzhicloud.site:35455/huya/26355802
+https://www.goodiptv.club/huya/26355802
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/变形金刚合集.png" group-title="电影轮播",变形金刚合集
-http://www.douzhicloud.site:35455/huya/26355773
+https://www.goodiptv.club/huya/26355773
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/宇宙科幻合集.png" group-title="电影轮播",宇宙科幻合集
-http://www.douzhicloud.site:35455/huya/11342428
+https://www.goodiptv.club/huya/11342428
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/侏罗纪公园.png" group-title="电影轮播",侏罗纪公园
-http://www.douzhicloud.site:35455/huya/26355773
+https://www.goodiptv.club/huya/26355773
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/末日电影.png" group-title="电影轮播",末日电影
 http://43.138.0.72:35455/yy/1354889019
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜剧电影.png" group-title="电影轮播",喜剧电影1
-http://www.douzhicloud.site:35455/huya/11352915
+https://www.goodiptv.club/huya/11352915
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜剧电影.png" group-title="电影轮播",喜剧电影2
-http://www.douzhicloud.site:35455/huya/11352897
+https://www.goodiptv.club/huya/11352897
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜剧电影.png" group-title="电影轮播",喜剧电影3
 https://www.goodiptv.club/huya/11602044
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜剧电影.png" group-title="电影轮播",喜剧电影4
-http://www.douzhicloud.site:35455/huya/11352877
+https://www.goodiptv.club/huya/11352877
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/喜剧电影.png" group-title="电影轮播",喜剧电影5
-http://www.douzhicloud.site:35455/huya/11342423
+https://www.goodiptv.club/huya/11342423
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/枪战电影.png" group-title="电影轮播",枪战电影
-http://www.douzhicloud.site:35455/huya/21059579
+https://www.goodiptv.club/huya/21059579
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/悬疑电影.png" group-title="电影轮播",国产悬疑电影
-http://www.douzhicloud.site:35455/huya/11342395
+https://www.goodiptv.club/huya/11342395
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/纬来电影.png" group-title="电影轮播",纬来电影
 http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="电影轮播",龙华电影
@@ -851,9 +853,9 @@ http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",超级电影
 http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8?
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",嫣然影厅
-http://www.douzhicloud.site:35455/huya/11601977
+https://www.goodiptv.club/huya/11601977
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",蘑菇影厅
-http://www.douzhicloud.site:35455/huya/11601981
+https://www.goodiptv.club/huya/11601981
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",冰冰影厅
 http://b.zgjok.com:35455/douyu/74374
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",米虫影院
@@ -861,65 +863,73 @@ http://b.zgjok.com:35455/douyu/315457
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",奶虫影院
 http://b.zgjok.com:35455/douyu/263824
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",哈利波特合集
-http://www.douzhicloud.site:35455/huya/29982669
+https://www.goodiptv.club/huya/29982669
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/1905.png" group-title="电影轮播",1905电影网
 
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影.png" group-title="电影轮播",韩剧高分电影
-http://www.douzhicloud.site:35455/huya/11352884
+https://www.goodiptv.club/huya/11352884
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/国风动画.png" group-title="电影轮播",国风动画电影
-http://www.douzhicloud.site:35455/huya/30080242
+https://www.goodiptv.club/huya/30080242
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/迪士尼电影.png" group-title="电影轮播",迪士尼电影
-http://www.douzhicloud.site:35455/huya/30080256
+https://www.goodiptv.club/huya/30080256
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",电影01
-http://www.douzhicloud.site:35455/huya/11342419
+https://www.goodiptv.club/huya/11342419
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",电影03
-http://www.douzhicloud.site:35455/huya/11352945
+https://www.goodiptv.club/huya/11352945
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/邱淑贞.png" group-title="电影轮播",邱淑贞电影
-http://www.douzhicloud.site:35455/huya/11352949
+https://www.goodiptv.club/huya/11352949
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",九龙城寨扫毒3
-http://www.douzhicloud.site:35455/huya/11352952
+https://www.goodiptv.club/huya/11352952
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",释小龙臭屁文
-http://www.douzhicloud.site:35455/huya/21059599
+https://www.goodiptv.club/huya/21059599
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电影1.png" group-title="电影轮播",犯罪电影(英语)
-http://www.douzhicloud.site:35455/huya/11352908
+https://www.goodiptv.club/huya/11352908
 
 #电视剧轮播
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/羋月传.png" group-title="电视剧轮播",羋月传
-http://www.douzhicloud.site:35455/huya/11352975
+https://www.goodiptv.club/huya/11352975
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/延禧攻略.png" group-title="电视剧轮播",延禧攻略
-http://www.douzhicloud.site:35455/huya/26355864
+https://www.goodiptv.club/huya/26355864
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/如懿传.png" group-title="电视剧轮播",如懿传
-http://www.douzhicloud.site:35455/huya/29465868
+https://www.goodiptv.club/huya/29465868
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/如懿传.png" group-title="电视剧轮播",如懿传
+https://www.goodiptv.club/huya/30080227
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陆贞传奇.png" group-title="电视剧轮播",陆贞传奇
-http://www.douzhicloud.site:35455/huya/29982670
+https://www.goodiptv.club/huya/29982670
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/美人心计.png" group-title="电视剧轮播",美人心计
-http://www.douzhicloud.site:35455/huya/26355837
+https://www.goodiptv.club/huya/26355837
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="电视剧轮播",庆余年
-http://www.douzhicloud.site:35455/huya/11352960
+https://www.goodiptv.club/huya/11352960
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="电视剧轮播",庆余年II
-http://www.douzhicloud.site:35455/huya/23740156
+https://www.goodiptv.club/huya/23740156
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/雪中悍刀行.png" group-title="电视剧轮播",雪中悍刀行
-http://www.douzhicloud.site:35455/huya/11336592
+https://www.goodiptv.club/huya/11336592
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/且试天下.png" group-title="电视剧轮播",且试天下2022
+https://www.goodiptv.club/huya/21059630
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/流水迢迢.png" group-title="电视剧轮播",流水迢迢
-http://www.douzhicloud.site:35455/huya/23865036
+https://www.goodiptv.club/huya/23865036
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/梦华录.png" group-title="电视剧轮播",梦华录
-http://www.douzhicloud.site:35455/huya/11336590
+https://www.goodiptv.club/huya/11336590
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/星汉灿烂.png" group-title="电视剧轮播",星汉灿烂
-http://www.douzhicloud.site:35455/huya/11336591
+https://www.goodiptv.club/huya/11336591
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/长相思I.png" group-title="电视剧轮播",长相思I
-http://www.douzhicloud.site:35455/huya/11336593
+https://www.goodiptv.club/huya/11336593
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/御赐小仵作.png" group-title="电视剧轮播",御赐小仵作
-http://www.douzhicloud.site:35455/huya/11352948
+https://www.goodiptv.club/huya/11352948
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/知否知否.png" group-title="电视剧轮播",知否知否
 
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/平凡之路.png" group-title="电视剧轮播",平凡之路2023
-http://www.douzhicloud.site:35455/huya/30080139
+
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/谍战深海之惊蛰.png" group-title="电视剧轮播",谍战深海之惊蛰2019
+https://www.goodiptv.club/huya/30080139
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/三叉戟.png" group-title="电视剧轮播",三叉戟2020
-http://www.douzhicloud.site:35455/huya/29465883
+https://www.goodiptv.club/huya/29465883
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/人民的名义.png" group-title="电视剧轮播",人民的名义2017
+https://www.goodiptv.club/huya/29982648
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/扫黑风暴.png" group-title="电视剧轮播",扫黑风暴2021
-http://www.douzhicloud.site:35455/huya/11342404
+https://www.goodiptv.club/huya/11342404
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/猎罪图鉴.png" group-title="电视剧轮播",猎罪图鉴2022
-http://www.douzhicloud.site:35455/huya/11601962
+https://www.goodiptv.club/huya/11601962
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
 http://43.138.0.72:35455/yy/1354936131
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
@@ -927,353 +937,572 @@ http://43.138.0.72:35455/yy/1355142167
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狂飙.png" group-title="电视剧轮播",狂飙2023
 https://www.goodiptv.club/yy/1355142167
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/猎冰.png" group-title="电视剧轮播",猎冰2024
-http://www.douzhicloud.site:35455/huya/26355764
+https://www.goodiptv.club/huya/26355764
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/征服.png" group-title="电视剧轮播",征服2003
-http://www.douzhicloud.site:35455/huya/30311494
+https://www.goodiptv.club/huya/30311494
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/琅琊榜.png" group-title="电视剧轮播",琅琊榜
 
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/有翡.png" group-title="电视剧轮播",有翡2020
-http://www.douzhicloud.site:35455/huya/29982668
+https://www.goodiptv.club/huya/29982668
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/都挺好.png" group-title="电视剧轮播",都挺好2019
-http://www.douzhicloud.site:35455/huya/21059594
+https://www.goodiptv.club/huya/21059594
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/少年歌行.png" group-title="电视剧轮播",少年歌行
 http://43.138.0.72:35455/yy/1450556636
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的体育老师.png" group-title="电视剧轮播",我的体育老师
 http://43.138.0.72:35455/yy/1382745169
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我爱男保姆.png" group-title="电视剧轮播",我爱男保姆2014
-http://www.douzhicloud.site:35455/huya/29581262
+https://www.goodiptv.club/huya/29581262
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/好先生.png" group-title="电视剧轮播",好先生
-http://www.douzhicloud.site:35455/huya/11602088
+https://www.goodiptv.club/huya/11602088
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/后厨.png" group-title="电视剧轮播",后厨
 http://43.138.0.72:35455/yy/1351059494
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/你是我的荣耀.png" group-title="电视剧轮播",你是我的荣耀
-http://www.douzhicloud.site:35455/huya/11352920
+https://www.goodiptv.club/huya/11352920
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/你比星光美丽.png" group-title="电视剧轮播",你比星光美丽2024
-http://www.douzhicloud.site:35455/huya/23734183
+https://www.goodiptv.club/huya/23734183
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/想见你.png" group-title="电视剧轮播",想见你2019
-http://www.douzhicloud.site:35455/huya/22360453
+https://www.goodiptv.club/huya/22360453
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/如果岁月可回头.png" group-title="电视剧轮播",如果岁月可回头
 http://43.138.0.72:35455/yy/1382736883
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/流金岁月.png" group-title="电视剧轮播",流金岁月
 http://43.138.0.72:35455/yy/1382749906
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/小时代.png" group-title="电视剧轮播",小时代
-http://www.douzhicloud.site:35455/huya/11352877
+https://www.goodiptv.club/huya/11352877
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/欢乐颂.png" group-title="电视剧轮播",欢乐颂2016
-http://www.douzhicloud.site:35455/huya/29982666
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/启航：当风起时.png" group-title="电视剧轮播",启航：当风起时2021
-http://www.douzhicloud.site:35455/huya/30080248
+https://www.goodiptv.club/huya/29982666
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的前半生.png" group-title="电视剧轮播",我的前半生2016
+https://www.goodiptv.club/huya/11352916
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/总裁误宠替身甜妻.png" group-title="电视剧轮播",总裁误宠替身甜妻2017
-http://www.douzhicloud.site:35455/huya/30375485
+https://www.goodiptv.club/huya/30375485
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/问心.png" group-title="电视剧轮播",问心2023
-http://www.douzhicloud.site:35455/huya/11352890
+https://www.goodiptv.club/huya/11352890
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/外科风云.png" group-title="电视剧轮播",外科风云2017
-http://www.douzhicloud.site:35455/huya/29982672
+https://www.goodiptv.club/huya/29982672
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/亲爱的热爱的.png" group-title="电视剧轮播",亲爱的热爱的2019
-http://www.douzhicloud.site:35455/huya/29982671
+https://www.goodiptv.club/huya/29982671
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/穿越火线.png" group-title="电视剧轮播",穿越火线2020
-http://www.douzhicloud.site:35455/huya/11342432
+https://www.goodiptv.club/huya/11342432
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陪你到世界之巅.png" group-title="电视剧轮播",陪你到世界之巅
-http://www.douzhicloud.site:35455/huya/11352901
+https://www.goodiptv.club/huya/11352901
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沙海.png" group-title="电视剧轮播",沙海
-http://www.douzhicloud.site:35455/huya/26355786
+https://www.goodiptv.club/huya/26355786
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/开端.png" group-title="电视剧轮播",开端
-http://www.douzhicloud.site:35455/huya/11342397
+https://www.goodiptv.club/huya/11342397
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/三体.png" group-title="电视剧轮播",三体
-http://www.douzhicloud.site:35455/huya/11352954
+https://www.goodiptv.club/huya/11352954
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/盗墓笔记.png" group-title="电视剧轮播",盗墓笔记
-http://www.douzhicloud.site:35455/huya/11342415
+https://www.goodiptv.club/huya/11342415
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之精绝古城.png" group-title="电视剧轮播",鬼吹灯之精绝古城
-http://www.douzhicloud.site:35455/huya/11352871
+https://www.goodiptv.club/huya/11352871
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之怒晴湘西.png" group-title="电视剧轮播",鬼吹灯之怒晴湘西
-http://www.douzhicloud.site:35455/huya/11602075
+https://www.goodiptv.club/huya/11602075
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之怒晴湘西.png" group-title="电视剧轮播",鬼吹灯之怒晴湘西
 https://live.metshop.top/huya/11602075
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之怒晴湘西.png" group-title="电视剧轮播",鬼吹灯之怒晴湘西
 http://124.248.69.76:26781/huya/11602075
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之龙岭迷窟.png" group-title="电视剧轮播",鬼吹灯之龙岭迷窟
-http://www.douzhicloud.site:35455/huya/29465863
+https://www.goodiptv.club/huya/29465863
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鬼吹灯之云南虫谷.png" group-title="电视剧轮播",鬼吹灯之云南虫谷
-http://www.douzhicloud.site:35455/huya/11352898
+https://www.goodiptv.club/huya/11352898
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/与凤行.png" group-title="电视剧轮播",与凤行
-http://www.douzhicloud.site:35455/huya/26355866
+https://www.goodiptv.club/huya/26355866
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/香蜜沉沉烬如霜.png" group-title="电视剧轮播",香蜜沉沉烬如霜2018
-http://www.douzhicloud.site:35455/huya/30080182
+https://www.goodiptv.club/huya/30080182
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/雪鹰领主.png" group-title="电视剧轮播",雪鹰领主
-http://www.douzhicloud.site:35455/huya/11352895
+https://www.goodiptv.club/huya/11352895
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/斗罗大陆.png" group-title="电视剧轮播",斗罗大陆
-http://www.douzhicloud.site:35455/huya/11352892
+https://www.goodiptv.club/huya/11352892
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/将液.png" group-title="电视剧轮播",将液
-http://www.douzhicloud.site:35455/huya/11352885
+https://www.goodiptv.club/huya/11352885
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/楚乔传.png" group-title="电视剧轮播",楚乔传2017
-http://www.douzhicloud.site:35455/huya/19285234
+https://www.goodiptv.club/huya/19285234
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/花千骨.png" group-title="电视剧轮播",花千骨
-http://www.douzhicloud.site:35455/huya/26355839
+https://www.goodiptv.club/huya/26355839
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/诛仙.png" group-title="电视剧轮播",诛仙
-http://www.douzhicloud.site:35455/huya/26355766
+https://www.goodiptv.club/huya/26355766
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陈情令.png" group-title="电视剧轮播",陈情令
-http://www.douzhicloud.site:35455/huya/29465862
+https://www.goodiptv.club/huya/29465862
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/无心法师II.png" group-title="电视剧轮播",无心法师II2017
-http://www.douzhicloud.site:35455/huya/30080233
+https://www.goodiptv.club/huya/30080233
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/仙剑奇侠传.png" group-title="电视剧轮播",仙剑奇侠传
 http://43.138.0.72:35455/yy/1382749903
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/仙剑奇侠传.png" group-title="电视剧轮播",仙剑奇侠传
 http://jiaojirentv.top/2020/yy.php?id=1382749903
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大江大河之岁月如歌.png" group-title="电视剧轮播",大江大河之岁月如歌
-http://www.douzhicloud.site:35455/huya/23728660
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大江大河II时代大发展.png" group-title="电视剧轮播",大江大河II时代大发展
+https://www.goodiptv.club/huya/23490183
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大江大河III岁月如歌.png" group-title="电视剧轮播",大江大河III岁月如歌
+https://www.goodiptv.club/huya/23728660
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/不能失去你.png" group-title="电视剧轮播",不能失去你
-http://www.douzhicloud.site:35455/huya/11352956
+https://www.goodiptv.club/huya/11352956
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/立功·东北旧事.png" group-title="电视剧轮播",立功·东北旧事2023
-http://www.douzhicloud.site:35455/huya/11342393
+https://www.goodiptv.club/huya/11342393
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/爱情公寓.png" group-title="电视剧轮播",爱情公寓
-http://www.douzhicloud.site:35455/huya/11336726
+https://www.goodiptv.club/huya/11336726
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/地下交通站.png" group-title="电视剧轮播",地下交通站
-http://www.douzhicloud.site:35455/huya/11342433
+https://www.goodiptv.club/huya/11342433
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/一代枭雄.png" group-title="电视剧轮播",一代枭雄
-http://www.douzhicloud.site:35455/huya/11342398
+https://www.goodiptv.club/huya/11342398
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/亮剑.png" group-title="电视剧轮播",亮剑
 http://dns.yiandrive.com:15907/huya/30080238
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/亮剑.png" group-title="电视剧轮播",亮剑
-http://www.douzhicloud.site:35455/huya/30080238
+https://www.goodiptv.club/huya/30080238
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/二炮手.png" group-title="电视剧轮播",二炮手
 http://43.138.0.72:35455/yy/1354930964
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的团长我的团.png" group-title="电视剧轮播",我的团长我的团
-http://www.douzhicloud.site:35455/huya/11352910
+https://www.goodiptv.club/huya/11352910
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/雪豹.png" group-title="电视剧轮播",雪豹
 http://b.zgjok.com:35455/douyu/11863823
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新雪豹.png" group-title="电视剧轮播",新雪豹
-http://www.douzhicloud.site:35455/huya/29580970
+https://www.goodiptv.club/huya/29580970
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/黑狐之风影.png" group-title="电视剧轮播",黑狐之风影
-http://www.douzhicloud.site:35455/huya/20599549
+https://www.goodiptv.club/huya/20599549
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/炮神.png" group-title="电视剧轮播",炮神
 http://43.138.0.72:35455/yy/22089862
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/狼毒花.png" group-title="电视剧轮播",狼毒花2007
-http://www.douzhicloud.site:35455/huya/11602042
+https://www.goodiptv.club/huya/11602042
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/铁道游击队.png" group-title="电视剧轮播",铁道游击队
-http://www.douzhicloud.site:35455/huya/11352936
+https://www.goodiptv.club/huya/11352936
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/光荣时代.png" group-title="电视剧轮播",光荣时代2019
-http://www.douzhicloud.site:35455/huya/30080193
+https://www.goodiptv.club/huya/30080193
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/渗透.png" group-title="电视剧轮播",渗透2013
-http://www.douzhicloud.site:35455/huya/30080244
+https://www.goodiptv.club/huya/30080244
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/风筝.png" group-title="电视剧轮播",风筝2013
-http://www.douzhicloud.site:35455/huya/30080225
+https://www.goodiptv.club/huya/30080225
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/黎明前的抉择.png" group-title="电视剧轮播",黎明前的抉择2013
-http://www.douzhicloud.site:35455/huya/30307439
+https://www.goodiptv.club/huya/30307439
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我的绝密生涯.png" group-title="电视剧轮播",我的绝密生涯2014
-http://www.douzhicloud.site:35455/huya/30312372
+https://www.goodiptv.club/huya/30312372
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/红色.png" group-title="电视剧轮播",红色2014
-http://www.douzhicloud.site:35455/huya/26355845
+https://www.goodiptv.club/huya/26355845
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/伪装者.png" group-title="电视剧轮播",伪装者
 http://43.138.0.72:35455/yy/1354936244
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/伪装者.png" group-title="电视剧轮播",伪装者
 http://jiaojirentv.top/2020/yy.php?id=1354936244
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/黎明之前.png" group-title="电视剧轮播",黎明之前
-http://www.douzhicloud.site:35455/huya/26355778
+https://www.goodiptv.club/huya/26355778
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/人间正道是沧桑.png" group-title="电视剧轮播",人间正道是沧桑
-http://www.douzhicloud.site:35455/huya/26355854
+https://www.goodiptv.club/huya/26355854
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大盛魁.png" group-title="电视剧轮播",大盛魁2017
-http://www.douzhicloud.site:35455/huya/30292086
+https://www.goodiptv.club/huya/30292086
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/白鹿原.png" group-title="电视剧轮播",白鹿原
-http://www.douzhicloud.site:35455/huya/11342416
+https://www.goodiptv.club/huya/11342416
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/铁梨花.png" group-title="电视剧轮播",铁梨花
-http://www.douzhicloud.site:35455/huya/11352912
+https://www.goodiptv.club/huya/11352912
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/勇敢的心.png" group-title="电视剧轮播",勇敢的心2014
-http://www.douzhicloud.site:35455/huya/11602037
+https://www.goodiptv.club/huya/11602037
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/十月围城.png" group-title="电视剧轮播",十月围城
-http://www.douzhicloud.site:35455/huya/26355821
+https://www.goodiptv.club/huya/26355821
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/繁花.png" group-title="电视剧轮播",繁花2023
-http://www.douzhicloud.site:35455/huya/23749083
+https://www.goodiptv.club/huya/23749083
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/功勋.png" group-title="电视剧轮播",功勋2021
+https://www.goodiptv.club/huya/11342392
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/山海情.png" group-title="电视剧轮播",山海情
+https://www.goodiptv.club/huya/23865152
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/老农民.png" group-title="电视剧轮播",老农民2014
-http://www.douzhicloud.site:35455/huya/29580971
+https://www.goodiptv.club/huya/29580971
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/乔家的儿女.png" group-title="电视剧轮播",乔家的儿女2021
-http://www.douzhicloud.site:35455/huya/29982622
+https://www.goodiptv.club/huya/29982622
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鸡毛飞上天.png" group-title="电视剧轮播",鸡毛飞上天2015
-http://www.douzhicloud.site:35455/huya/29982664
+https://www.goodiptv.club/huya/29982664
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/正阳门下.png" group-title="电视剧轮播",正阳门下2013
 http://43.138.0.72:35455/yy/1382851588
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/情满四合院.png" group-title="电视剧轮播",情满四合院
-http://www.douzhicloud.site:35455/huya/11342426
+https://www.goodiptv.club/huya/11342426
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/父辈的荣耀.png" group-title="电视剧轮播",父辈的荣耀
-http://www.douzhicloud.site:35455/huya/11352893
+https://www.goodiptv.club/huya/11352893
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/父母爱情.png" group-title="电视剧轮播",父母爱情2014
-http://www.douzhicloud.site:35455/huya/11602071
+https://www.goodiptv.club/huya/11602071
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/青岛往事.png" group-title="电视剧轮播",青岛往事
-http://www.douzhicloud.site:35455/huya/11342434
+https://www.goodiptv.club/huya/11342434
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大染坊.png" group-title="电视剧轮播",大染坊2003
-http://www.douzhicloud.site:35455/huya/11602086
+https://www.goodiptv.club/huya/11602086
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/民兵葛二蛋.png" group-title="电视剧轮播",民兵葛二蛋2012
-http://www.douzhicloud.site:35455/huya/11602072
+https://www.goodiptv.club/huya/11602072
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/士兵突击.png" group-title="电视剧轮播",士兵突击
-http://www.douzhicloud.site:35455/huya/11342430
+https://www.goodiptv.club/huya/11342430
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/火蓝刀锋.png" group-title="电视剧轮播",火蓝刀锋
 http://43.138.0.72:35455/yy/1382737892
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/特种兵之火凤凰.png" group-title="电视剧轮播",特种兵之火凤凰
-http://www.douzhicloud.site:35455/huya/29982636
+https://www.goodiptv.club/huya/29982636
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/我是特种兵之利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
 http://43.138.0.72:35455/yy/37999586
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/妈祖.png" group-title="电视剧轮播",妈祖
-http://www.douzhicloud.site:35455/huya/29982633
+https://www.goodiptv.club/huya/29982633
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/西游记.png" group-title="电视剧轮播",西游记
-http://www.douzhicloud.site:35455/huya/26355861
+https://www.goodiptv.club/huya/26355861
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/西游记后传.png" group-title="电视剧轮播",西游记后传
 http://43.138.0.72:35455/yy/1353392400
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新白娘子传奇.png" group-title="电视剧轮播",新白娘子传奇
-http://www.douzhicloud.site:35455/huya/26355768
+https://www.goodiptv.club/huya/26355768
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新白娘子传奇.png" group-title="电视剧轮播",新白娘子传奇
 http://43.138.0.72:35455/yy/1354490667
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新白娘子传奇.png" group-title="电视剧轮播",新白娘子传奇
 http://43.138.0.72:35455/yy/1354930969
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/宝莲灯前传.png" group-title="电视剧轮播",宝莲灯前传2009
-http://www.douzhicloud.site:35455/huya/21059557
+https://www.goodiptv.club/huya/21059557
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/活佛济公III.png" group-title="电视剧轮播",活佛济公III(天婵变)
-http://www.douzhicloud.site:35455/huya/23903123
+https://www.goodiptv.club/huya/23903123
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/活佛济公III.png" group-title="电视剧轮播",活佛济公III(天婵变)
-http://www.douzhicloud.site:35455/huya/11342400
+https://www.goodiptv.club/huya/11342400
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/天天有喜.png" group-title="电视剧轮播",天天有喜II
-http://www.douzhicloud.site:35455/huya/26355849
+https://www.goodiptv.club/huya/26355849
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/天地传说之鱼美人.png" group-title="电视剧轮播",天地传说之鱼美人
-http://www.douzhicloud.site:35455/huya/26355863
+https://www.goodiptv.club/huya/26355863
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/魔幻手机.png" group-title="电视剧轮播",魔幻手机
-http://www.douzhicloud.site:35455/huya/11352966
+https://www.goodiptv.club/huya/11352966
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/笑傲江湖(李亚鹏版).png" group-title="电视剧轮播",笑傲江湖(李亚鹏版)
-http://www.douzhicloud.site:35455/huya/26355790
+https://www.goodiptv.club/huya/26355790
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/笑傲江湖(霍建华版).png" group-title="电视剧轮播",笑傲江湖(霍建华版)
-http://www.douzhicloud.site:35455/huya/=26355858
+https://www.goodiptv.club/huya/=26355858
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
-http://www.douzhicloud.site:35455/huya/11352964
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/射雕英雄传83版.png" group-title="电视剧轮播",射雕英雄传83版
-http://www.douzhicloud.site:35455/huya/11602082
+https://www.goodiptv.club/huya/11352964
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣(刘德华版)
+https://www.goodiptv.club/huya/30080191
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/射雕英雄传83版.png" group-title="电视剧轮播",金庸经典剧
+https://www.goodiptv.club/huya/11602082
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/天龙八部.png" group-title="电视剧轮播",天龙八部2003
-http://www.douzhicloud.site:35455/huya/20985816
+https://www.goodiptv.club/huya/20985816
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鹿鼎记2008.png" group-title="电视剧轮播",鹿鼎记2008
+https://www.goodiptv.club/huya/11342388
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/倚天屠龙记(苏有朋版).png" group-title="电视剧轮播",倚天屠龙记(苏有朋版)
-http://www.douzhicloud.site:35455/huya/11342403
+https://www.goodiptv.club/huya/11342403
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/红楼梦87版.png" group-title="电视剧轮播",红楼梦1987
-http://www.douzhicloud.site:35455/huya/30080221
+https://www.goodiptv.club/huya/30080221
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/三国演义.png" group-title="电视剧轮播",三国演义
-http://www.douzhicloud.site:35455/huya/11602081
+https://www.goodiptv.club/huya/11602081
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新三国演义.png" group-title="电视剧轮播",新三国演义
-http://www.douzhicloud.site:35455/huya/11352944
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新水浒传(2011).png" group-title="电视剧轮播",新水浒传2011
-http://www.douzhicloud.site:35455/huya/11342384
+https://www.goodiptv.club/huya/11352944
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/新水浒传.png" group-title="电视剧轮播",新水浒传2011
+https://www.goodiptv.club/huya/11342384
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/水浒传98版.png" group-title="电视剧轮播",水浒传1998
-http://www.douzhicloud.site:35455/huya/26355860
+https://www.goodiptv.club/huya/26355860
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/穆桂英挂帅.png" group-title="电视剧轮播",穆桂英挂帅2012
+https://www.goodiptv.club/huya/30080248
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/正德演义.png" group-title="电视剧轮播",正德演义
-http://www.douzhicloud.site:35455/huya/11342388
+https://www.goodiptv.club/huya/11342388
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/隋唐英雄传.png" group-title="电视剧轮播",隋唐英雄传
 http://43.138.0.72:35455/yy/1352475619
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/隋唐演义.png" group-title="电视剧轮播",隋唐演义
-http://www.douzhicloud.site:35455/huya/30080219
+https://www.goodiptv.club/huya/30080219
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/汉武大帝.png" group-title="电视剧轮播",汉武大帝
-http://www.douzhicloud.site:35455/huya/26355859
+https://www.goodiptv.club/huya/26355859
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/李卫当官.png" group-title="电视剧轮播",李卫当官
-http://www.douzhicloud.site:35455/huya/26355788
+https://www.goodiptv.club/huya/26355788
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/康熙微服私访记.png" group-title="电视剧轮播",康熙微服私访记
-http://www.douzhicloud.site:35455/huya/11342418
+https://www.goodiptv.club/huya/11342418
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
-http://www.douzhicloud.site:35455/huya/11342396
+https://www.goodiptv.club/huya/11342396
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大秦帝国I.png" group-title="电视剧轮播",大秦帝国I2008
-http://www.douzhicloud.site:35455/huya/11602077
+https://www.goodiptv.club/huya/11602077
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/雍正王朝.png" group-title="电视剧轮播",雍正王朝
-http://www.douzhicloud.site:35455/huya/11342439
+https://www.goodiptv.club/huya/11342439
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/康熙王朝.png" group-title="电视剧轮播",康熙王朝
-http://www.douzhicloud.site:35455/huya/11352940
+https://www.goodiptv.club/huya/11352940
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/忽必烈传奇.png" group-title="电视剧轮播",忽必烈传奇2013
-http://www.douzhicloud.site:35455/huya/30344039
+https://www.goodiptv.club/huya/30344039
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神探狄仁杰I.png" group-title="电视剧轮播",神探狄仁杰第一部
-http://www.douzhicloud.site:35455/huya/11352958
+https://www.goodiptv.club/huya/11352958
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神探狄仁杰II.png" group-title="电视剧轮播",神探狄仁杰第二部
 http://43.138.0.72:35455/yy/1382851146
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神探狄仁杰II.png" group-title="电视剧轮播",神探狄仁杰第二部
 http://jiaojirentv.top/2020/yy.php?id=1382851146
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/神探狄仁杰III.png" group-title="电视剧轮播",神探狄仁杰第三部
-http://www.douzhicloud.site:35455/huya/11342425
+https://www.goodiptv.club/huya/11342425
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/小鱼儿与花无缺(张卫健版).png" group-title="电视剧轮播",小鱼儿与花无缺(张卫健版)
-http://www.douzhicloud.site:35455/huya/29465867
+https://www.goodiptv.club/huya/29465867
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/乌龙闯情关.png" group-title="电视剧轮播",乌龙闯情关
-http://www.douzhicloud.site:35455/huya/26355767
+https://www.goodiptv.club/huya/26355767
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/海派甜心.png" group-title="电视剧轮播",海派甜心
-http://www.douzhicloud.site:35455/huya/11342436
+https://www.goodiptv.club/huya/11342436
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/传闻中的陈芊芊.png" group-title="电视剧轮播",传闻中的陈芊芊
-http://www.douzhicloud.site:35455/huya/21059608
+https://www.goodiptv.club/huya/21059608
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/永夜星河.png" group-title="电视剧轮播",永夜星河
-http://www.douzhicloud.site:35455/huya/23734169
+https://www.goodiptv.club/huya/23734169
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/柳舟计.png" group-title="电视剧轮播",柳舟计
-http://www.douzhicloud.site:35455/huya/23860039
+https://www.goodiptv.club/huya/23860039
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大秦赋.png" group-title="电视剧轮播",大秦赋(线路1)
-http://www.douzhicloud.site:35455/huya/11352881
+https://www.goodiptv.club/huya/11352881
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大秦赋.png" group-title="电视剧轮播",大秦赋(线路2)
-http://www.douzhicloud.site:35455/huya/23903130
+https://www.goodiptv.club/huya/23903130
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/吕不韦传奇.png" group-title="电视剧轮播",吕不韦传奇
-http://www.douzhicloud.site:35455/huya/11352953
+https://www.goodiptv.club/huya/11352953
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/唐朝诡事录之西行.png" group-title="电视剧轮播",唐朝诡事录之西行
-http://www.douzhicloud.site:35455/huya/26355763
+https://www.goodiptv.club/huya/26355763
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/玫瑰的故事.png" group-title="电视剧轮播",玫瑰的故事
-http://www.douzhicloud.site:35455/huya/23865142
+https://www.goodiptv.club/huya/23865142
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/梦中的那片海.png" group-title="电视剧轮播",梦中的那片海
-http://www.douzhicloud.site:35455/huya/26355765
+https://www.goodiptv.club/huya/26355765
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/大宋提刑官.png" group-title="电视剧轮播",大宋提刑官
-http://www.douzhicloud.site:35455/huya/26355856
+https://www.goodiptv.club/huya/26355856
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/十大奇冤.png" group-title="电视剧轮播",十大奇冤
-http://www.douzhicloud.site:35455/huya/11352899
+https://www.goodiptv.club/huya/11352899
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/小李飞刀.png" group-title="电视剧轮播",小李飞刀
-http://www.douzhicloud.site:35455/huya/11342417
+https://www.goodiptv.club/huya/11342417
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/流星蝴蝶剑.png" group-title="电视剧轮播",流星蝴蝶剑(线路1)
-http://www.douzhicloud.site:35455/huya/11342420
+https://www.goodiptv.club/huya/11342420
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/流星蝴蝶剑.png" group-title="电视剧轮播",流星蝴蝶剑(线路2)
-http://www.douzhicloud.site:35455/huya/26355789
+https://www.goodiptv.club/huya/26355789
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/流星蝴蝶剑.png" group-title="电视剧轮播",流星蝴蝶剑(线路2)
 http://www.52sw.top:678/play/huya.php?id=26355789
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/少年张三丰(张卫健版).png" group-title="电视剧轮播",少年张三丰(张卫健版)
-http://www.douzhicloud.site:35455/huya/26355824
+https://www.goodiptv.club/huya/26355824
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陆小凤传奇.png" group-title="电视剧轮播",陆小凤传奇
-http://www.douzhicloud.site:35455/huya/11342427
+https://www.goodiptv.club/huya/11342427
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/楚留香新传.png" group-title="电视剧轮播",楚留香新传2013(张智尧版)
-http://www.douzhicloud.site:35455/huya/26355848
+https://www.goodiptv.club/huya/26355848
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/鹊刀门传奇.png" group-title="电视剧轮播",鹊刀门传奇
-http://www.douzhicloud.site:35455/huya/11352963
+https://www.goodiptv.club/huya/11352963
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/医馆笑传.png" group-title="电视剧轮播",医馆笑传
-http://www.douzhicloud.site:35455/huya/11352891
+https://www.goodiptv.club/huya/11352891
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/龙门镖局.png" group-title="电视剧轮播",龙门镖局
-http://www.douzhicloud.site:35455/huya/11352874
+https://www.goodiptv.club/huya/11352874
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/镖行天下前传之四百里加急.png" group-title="电视剧轮播",镖行天下前传之四百里加急
-http://www.douzhicloud.site:35455/huya/11352969
+https://www.goodiptv.club/huya/11352969
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/家有儿女.png" group-title="电视剧轮播",家有儿女
-http://www.douzhicloud.site:35455/huya/11352872
+https://www.goodiptv.club/huya/11352872
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/泰迪熊.png" group-title="电视剧轮播",泰迪熊(美剧)
-http://www.douzhicloud.site:35455/huya/11342438
+https://www.goodiptv.club/huya/11342438
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/搞笑一家人.png" group-title="电视剧轮播",搞笑一家人(韩国)
-http://www.douzhicloud.site:35455/huya/11342402
+https://www.goodiptv.club/huya/11342402
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/电视剧.png" group-title="电视剧轮播",未知
-http://www.douzhicloud.site:35455/huya/21059596
+https://www.goodiptv.club/huya/21059596
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/曼达洛人.png" group-title="电视剧轮播",曼达洛人2019(美剧)
-http://www.douzhicloud.site:35455/huya/11602084
+https://www.goodiptv.club/huya/11602084
+
+#沉默的荣耀2025
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第01集
+https://tyyszywvod5.com/videos/202510/09/68e687c04f49bf0c9bc69710/9c86fc/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第01集/index.m3u8
+https://vip.dytt-cinema.com/20250930/35901_301d0198/index.m3u8
+https://cdn.ryplay11.com/20250930/187049_b36d3cec/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第02集
+https://tyyszywvod5.com/videos/202510/09/68e6875f4f49bf0c9bc696ab/0g2feb/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第02集/index.m3u8
+https://vip.dytt-cinema.com/20250930/35902_297599ea/index.m3u8
+https://cdn.ryplay11.com/20250930/187048_5381de74/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第03集
+https://tyyszywvod5.com/videos/202510/09/68e687734f49bf0c9bc696b0/f5b1g9/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第03集/index.m3u8
+https://vip.dytt-cinema.com/20250930/35903_8697b0e9/index.m3u8
+https://cdn.ryplay11.com/20250930/187047_e4f19a81/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第04集
+https://tyyszywvod5.com/videos/202510/09/68e687d04f49bf0c9bc69784/7259e2/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第04集/index.m3u8
+https://vip.dytt-cinema.com/20250930/35904_67e91755/index.m3u8
+https://cdn.ryplay11.com/20250930/187046_1a4da779/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第05集
+https://tyyszywvod5.com/videos/202510/09/68e687d34f49bf0c9bc69785/815gcd/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第05集/index.m3u8
+https://vip.dytt-cine.com/20251001/57975_66a7eafe/index.m3u8
+https://cdn.ryplay11.com/20251001/187099_ab39390e/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第06集
+https://tyyszywvod5.com/videos/202510/09/68e687094f49bf0c9bc67e63/47c258/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第06集/index.m3u8
+https://vip.dytt-cine.com/20251001/57976_76fcb9ee/index.m3u8
+https://cdn.ryplay11.com/20251001/187098_11df1c01/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第07集
+https://tyyszywvod5.com/videos/202510/08/68e687d94f49bf0c9bc69788/9dfef4/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第07集/index.m3u8
+https://vip.dytt-cinema.com/20251002/36080_8fc3986a/index.m3u8
+https://cdn.ryplay11.com/20251002/187161_8ec23d3f/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第08集
+https://tyyszywvod5.com/videos/202510/08/68e6882b4f49bf0c9bc69808/820500/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第08集/index.m3u8
+https://vip.dytt-cinema.com/20251002/36081_9db0787c/index.m3u8
+https://cdn.ryplay11.com/20251002/187160_cd6670a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第09集
+https://tyyszywvod5.com/videos/202510/09/68e6a558d410560c8f6502b4/79ca29/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第09集/index.m3u8
+https://vip.dytt-cine.com/20251003/58191_c6042005/index.m3u8
+https://cdn.ryplay11.com/20251003/187204_03134515/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第10集
+https://tyyszywvod5.com/videos/202510/08/68e687134f49bf0c9bc691ca/5666eb/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第10集/index.m3u8
+https://vip.dytt-cine.com/20251004/58281_ee0c73d0/index.m3u8
+https://cdn.ryplay11.com/20251003/187203_a2292e71/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第11集
+https://tyyszywvod5.com/videos/202510/09/68e6872e4f49bf0c9bc6968a/c5cb90/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第11集/index.m3u8
+https://vip.dytt-cine.com/20251004/58282_db117f5c/index.m3u8
+https://cdn.ryplay11.com/20251004/187275_fb90ae37/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第12集
+https://tyyszywvod5.com/videos/202510/09/68e6af09d410560c8f654597/c67340/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第12集/index.m3u8
+https://vip.dytt-cine.com/20251004/58283_c0cd217a/index.m3u8
+https://cdn.ryplay11.com/20251004/187274_38331ceb/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第13集
+https://tyyszywvod5.com/videos/202510/09/68e686ce4f49bf0c9bc67d67/f229a4/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第13集/index.m3u8
+https://vip.dytt-cine.com/20251005/58364_d4b392df/index.m3u8
+https://cdn.ryplay11.com/20251005/187310_f67bd05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第14集
+https://tyyszywvod5.com/videos/202510/08/68e686df4f49bf0c9bc67d71/b7bd6d/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第14集/index.m3u8
+https://vip.dytt-cine.com/20251005/58365_bb9c7653/index.m3u8
+https://cdn.ryplay11.com/20251005/187311_58ad1bcf/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第15集
+https://tyyszywvod5.com/videos/202510/08/68e686e84f49bf0c9bc67d7d/edbg21/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第15集/index.m3u8
+https://vip.dytt-cine.com/20251006/58439_a232176a/index.m3u8
+https://cdn.ryplay11.com/20251006/187347_61e1447c/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第16集
+https://tyyszywvod5.com/videos/202510/09/68e686754f49bf0c9bc67d2b/c6db97/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第16集/index.m3u8
+https://vip.dytt-cine.com/20251006/58440_a2a868df/index.m3u8
+https://cdn.ryplay11.com/20251006/187346_85c6bc3f/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第17集
+https://tyyszywvod5.com/videos/202510/09/68e686744f49bf0c9bc67d2a/9875f0/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第17集/index.m3u8
+https://vip.dytt-cinema.com/20251007/36518_39a596c5/index.m3u8
+https://cdn.ryplay11.com/20251007/187377_12607b8d/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第18集
+https://tyyszywvod5.com/videos/202510/09/68e6af12d410560c8f65459a/3a5eg8/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第18集/index.m3u8
+https://vip.dytt-cinema.com/20251007/36519_d32108a2/index.m3u8
+https://cdn.ryplay11.com/20251007/187376_73c26590/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第19集
+https://tyyszywvod5.com/videos/202510/09/68e6af0fd410560c8f654599/5b0c26/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第19集/index.m3u8
+https://vip.dytt-cinema.com/20251008/36606_603429d0/index.m3u8
+https://cdn.ryplay11.com/20251008/187415_d8ce6044/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第20集
+https://tyyszywvod5.com/videos/202510/08/68e685d94f49bf0c9bc65f2b/24gbc3/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第20集/index.m3u8
+https://vip.dytt-cinema.com/20251008/36607_2c9a6487/index.m3u8
+https://cdn.ryplay11.com/20251008/187414_e0caa6a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第21集
+https://tyyszywvod5.com/videos/202510/09/68e79c93d410560c8f6bb9fd/fa017g/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第21集/index.m3u8
+https://vip.dytt-cinema.com/20251009/36716_d75f5329/index.m3u8
+https://cdn.ryplay11.com/20251009/187520_27ed13fb/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第22集
+https://tyyszywvod5.com/videos/202510/09/68e79df5d410560c8f6bc375/79c518/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第22集/index.m3u8
+https://vip.dytt-cinema.com/20251009/36717_acf03541/index.m3u8
+https://cdn.ryplay11.com/20251009/187519_7e8d3cdd/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第23集
+https://tyyszywvod5.com/videos/202510/10/68e8ef534f49bf0c9bd33bd9/dcf405/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第23集/index.m3u8
+https://vip.dytt-cine.com/20251010/58832_b48dd748/index.m3u8
+https://cdn.ryplay11.com/20251010/187577_7be39096/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第24集
+https://tyyszywvod5.com/videos/202510/10/68e8ef614f49bf0c9bd33be0/991240/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第24集/index.m3u8
+https://vip.dytt-cine.com/20251010/58833_062bc199/index.m3u8
+https://cdn.ryplay11.com/20251010/187576_12c8a622/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第25集
+https://tyyszywvod5.com/videos/202510/11/68ea41ac4f49bf0c9bd6e1f5/a8406a/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第25集/index.m3u8
+https://vip.dytt-cinema.com/20251011/36875_85b84d4c/index.m3u8
+https://cdn.ryplay11.com/20251011/187630_5b96186b/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第26集
+https://tyyszywvod5.com/videos/202510/11/68ea41b54f49bf0c9bd6e1f6/9aeg6b/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第26集/index.m3u8
+https://vip.dytt-cinema.com/20251011/36876_19b6b158/index.m3u8
+https://cdn.ryplay11.com/20251011/187629_b9207eec/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第27集
+https://tyyszywvod5.com/videos/202510/12/68eb91ded410560c8f76d5b4/d51d92/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第27集/index.m3u8
+https://vip.dytt-cine.com/20251012/59053_705b26f3/index.m3u8
+https://cdn.ryplay11.com/20251012/187702_1f092404/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第28集
+https://tyyszywvod5.com/videos/202510/12/68eb9164d410560c8f76d53f/66afb1/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第28集/index.m3u8
+https://vip.dytt-cine.com/20251012/59054_7a800480/index.m3u8
+https://cdn.ryplay11.com/20251012/187703_fba27bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第29集
+https://tyyszywvod5.com/videos/202510/13/68ece2f9d410560c8f7a22aa/a900b5/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第29集/index.m3u8
+https://vip.dytt-cinema.com/20251013/37048_67a00e4d/index.m3u8
+https://cdn.ryplay11.com/20251013/187766_2c212c5f/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第30集
+https://tyyszywvod5.com/videos/202510/13/68ece371d410560c8f7a2301/g4a87a/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第30集/index.m3u8
+https://vip.dytt-cinema.com/20251013/37049_ca365d90/index.m3u8
+https://cdn.ryplay11.com/20251013/187764_1c641840/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第31集
+https://tyyszywvod5.com/videos/202510/14/68ee36444f49bf0c9be2d320/01f29d/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第31集/index.m3u8
+https://vip.dytt-cinema.com/20251014/37215_c7f66351/index.m3u8
+hhttps://cdn7.ryplay7.com/20251014/16464_9d9ef0ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第32集
+https://tyyszywvod5.com/videos/202510/14/68ee364d4f49bf0c9be2d327/b0e6fe/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第32集/index.m3u8
+https://vip.dytt-cinema.com/20251014/37216_092cb2cd/index.m3u8
+https://cdn7.ryplay7.com/20251014/16463_566fcf4e/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第33集
+https://tyyszywvod5.com/videos/202510/15/68ef86f94f49bf0c9be87c6e/1d99f6/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第33集/index.m3u8
+https://vip.dytt-cinema.com/20251015/37291_ccc5dd52/index.m3u8
+https://cdn.ryplay11.com/20251015/187895_770af1c5/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第34集
+https://tyyszywvod5.com/videos/202510/15/68ef87034f49bf0c9be87cc5/3520ec/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第34集/index.m3u8
+https://vip.dytt-cinema.com/20251015/37292_b5f467cf/index.m3u8
+https://cdn.ryplay11.com/20251015/187894_e44cd1ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第35集
+https://tyyszywvod5.com/videos/202510/16/68f0d9a6d410560c8f89ec16/9fdfga/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第35集/index.m3u8
+https://vip.dytt-cinema.com/20251016/37429_fd1598a6/index.m3u8
+https://cdn.ryplay11.com/20251016/187958_d4c03d19/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第36集
+https://tyyszywvod5.com/videos/202510/16/68f0d928d410560c8f89eb62/909ab0/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第36集/index.m3u8
+https://vip.dytt-cinema.com/20251016/37430_daa5e517/index.m3u8
+https://cdn.ryplay11.com/20251016/187957_db1f7a18/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第37集
+https://tyyszywvod5.com/videos/202510/16/68f0d935d410560c8f89eb63/c62g5d/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第37集/index.m3u8
+https://vip.dytt-cinema.com/20251016/37432_543f36cb/index.m3u8
+https://cdn.ryplay11.com/20251016/187962_0e900161/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第38集
+https://tyyszywvod5.com/videos/202510/16/68f0db94d410560c8f8a4388/ac44e9/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第38集/index.m3u8
+https://vip.dytt-cinema.com/20251016/37433_907353ea/index.m3u8
+https://cdn.ryplay11.com/20251016/187961_01eb0f82/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/沉默的荣耀.png" group-title="沉默的荣耀2025",第39集
+https://tyyszywvod5.com/videos/202510/16/68f0db9ed410560c8f8a438a/1c15f3/index.m3u8
+https://v.fengbao8.com/video/chenmoderongyao/第39集/index.m3u8
+https://vip.dytt-cinema.com/20251016/37434_9a8d7eb7/index.m3u8
+https://cdn.ryplay11.com/20251016/187960_ed94ea69/index.m3u8
+
+#阅兵
+#EXTINF:-1 tvg-logo="https://img.picbf.com/upload/vod/20250903-1/14eb4baa11ea5d346fcdabdbb255cbb2.jpg" group-title="阅兵",2025年93大阅兵
+https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.picbf.com/upload/vod/20250903-1/14eb4baa11ea5d346fcdabdbb255cbb2.jpg" group-title="阅兵",2025年93大阅兵
+https://8.bf8bf.com/video/2025nian93dayuebing/HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.bfzypic.com/upload/vod/20230501-1/27cb53c6b465ad998573c69e248ea00a.jpg" group-title="阅兵",2019年大阅兵
+https://p.bvvvvvvvvv1f.com/video/2019yuebingshengdian/HD国语/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.bfzypic.com/upload/vod/20230501-1/27cb53c6b465ad998573c69e248ea00a.jpg" group-title="阅兵",2019年大阅兵
+https://vip.dytt-live.com/20250320/380_bca82e41/index.m3u8
 
 #综艺频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",经典小品轮播
 http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",宋小宝小品
-http://www.douzhicloud.site:35455/huya/30080192
+https://www.goodiptv.club/huya/30080192
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",辽视小品
-http://www.douzhicloud.site:35455/huya/11352938
+https://www.goodiptv.club/huya/11352938
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",开心麻花小品
-http://www.douzhicloud.site:35455/huya/30080154
+https://www.goodiptv.club/huya/30080154
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="美食轮播",美食频道
-http://www.douzhicloud.site:35455/huya/11352955
+https://www.goodiptv.club/huya/11352955
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="美食轮播",风味人间IV
-http://www.douzhicloud.site:35455/huya/26355760
+https://www.goodiptv.club/huya/26355760
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",王牌对王牌
-http://www.douzhicloud.site:35455/huya/11352905
+https://www.goodiptv.club/huya/11352905
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",跑男1-4季
-http://www.douzhicloud.site:35455/huya/29465875
+https://www.goodiptv.club/huya/29465875
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",奔跑吧(韩版）
-http://www.douzhicloud.site:35455/huya/11336725
+https://www.goodiptv.club/huya/11336725
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",脱口秀大会
-http://www.douzhicloud.site:35455/huya/11352875
+https://www.goodiptv.club/huya/11352875
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",咱们穿越吧
-http://www.douzhicloud.site:35455/huya/11352907
+https://www.goodiptv.club/huya/11352907
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",天赐声音
-http://www.douzhicloud.site:35455/huya/20985836
+https://www.goodiptv.club/huya/20985836
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/综艺.png" group-title="综艺轮播",小莉帮忙
-http://www.douzhicloud.site:35455/huya/11352880
+https://www.goodiptv.club/huya/11352880
 
 #德云社
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/德云社.png" group-title="德云社",德云社鼓曲专场天津站2021
@@ -1335,67 +1564,69 @@ https://cdn5.ryplay5.com/20240801/30_33b3cde6/index.m3u8
 
 #埋堆堆频道
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",楚汉骄雄
-http://www.douzhicloud.site:35455/huya/29465854
+https://www.goodiptv.club/huya/29465854
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",封神榜
-http://www.douzhicloud.site:35455/huya/29465849
+https://www.goodiptv.club/huya/29465849
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",西游记1
-http://www.douzhicloud.site:35455/huya/29465860
+https://www.goodiptv.club/huya/29465860
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",西游记2
-http://www.douzhicloud.site:35455/huya/29465859
+https://www.goodiptv.club/huya/29465859
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",鹿鼎记
-http://43.138.0.72:35455/yy/1382704650
+https://www.goodiptv.club/huya/23650774
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",鹿鼎记
 http://43.138.0.72:35455/yy/28265277
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",寻秦记
 http://i.880824.xyz:35455/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",寻秦记
-http://www.douzhicloud.site:35455/huya/29465848
+https://www.goodiptv.club/huya/29465848
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",大唐双龙传
-http://www.douzhicloud.site:35455/huya/29465850
+https://www.goodiptv.club/huya/29465850
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/封神英雄.png" group-title="埋堆堆频道",封神英雄2015
-http://www.douzhicloud.site:35455/huya/26355865
+https://www.goodiptv.club/huya/26355865
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",新封神榜
-http://www.douzhicloud.site:35455/huya/23865171
+https://www.goodiptv.club/huya/23865171
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",新封神榜
 http://i.880824.xyz:35455/huya/23865171
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",射雕英雄传
-http://www.douzhicloud.site:35455/huya/23824164
+https://www.goodiptv.club/huya/23824164
+#EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/雪山飞狐1999.png" group-title="埋堆堆频道",雪山飞狐1999
+https://www.goodiptv.club/huya/23734176
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",倚天屠龙记
 
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",笑傲江湖
-http://www.douzhicloud.site:35455/huya/23865142
+https://www.goodiptv.club/huya/23865142
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",刑事侦缉档案
-http://www.douzhicloud.site:35455/huya/29465856
+https://www.goodiptv.club/huya/29465856
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",刑事侦缉档案IV
-http://www.douzhicloud.site:35455/huya/29465855
+https://www.goodiptv.club/huya/29465855
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",刑事侦缉档案IV
 http://i.880824.xyz:35455/huya/29465855
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",法政先锋
-http://www.douzhicloud.site:35455/huya/23863804
+https://www.goodiptv.club/huya/23863804
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",法证先锋IV
-http://www.douzhicloud.site:35455/huya/29465861
+https://www.goodiptv.club/huya/29465861
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",洗冤录
-http://www.douzhicloud.site:35455/huya/29465851
+https://www.goodiptv.club/huya/29465851
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",陀枪师姐
-http://www.douzhicloud.site:35455/huya/29465857
+https://www.goodiptv.club/huya/29465857
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",使徒行者
 
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",鉴证实录
-http://www.douzhicloud.site:35455/huya/23903183
+https://www.goodiptv.club/huya/23903183
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",金枝欲孽
-http://www.douzhicloud.site:35455/huya/29465847
+https://www.goodiptv.club/huya/29465847
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",金枝欲孽
 http://i.880824.xyz:35455/huya/29465847
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",创世纪
-http://www.douzhicloud.site:35455/huya/29465852
+https://www.goodiptv.club/huya/29465852
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",妙手仁心
-http://www.douzhicloud.site:35455/huya/29465853
+https://www.goodiptv.club/huya/29465853
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",大时代
-http://www.douzhicloud.site:35455/huya/23865161
+https://www.goodiptv.club/huya/23865161
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",野蛮亲家
-http://www.douzhicloud.site:35455/huya/23863796
+https://www.goodiptv.club/huya/23863796
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/TVB.png" group-title="埋堆堆频道",笑看风云
-http://www.douzhicloud.site:35455/huya/29465858
+https://www.goodiptv.club/huya/29465858
 
 #点播电影
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/催眠大师.png" group-title="点播电影",催眠大师2014
@@ -1685,317 +1916,11 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/龙门飞甲.png" group-title="李连杰电影点播",龙门飞甲2011
 https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
 
-#蛮好的人生
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生01
-https://vip.dytt-cinema.com/20250417/20268_c79d3508/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生02
-https://vip.dytt-cinema.com/20250417/20267_caac131f/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生03
-https://vip.dytt-cinema.com/20250417/20270_24c386cd/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生04
-https://vip.dytt-cinema.com/20250417/20269_c9041cfd/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生05
-https://vip.dytt-hot.com/20250418/87161_ea7e84b6/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生06
-https://vip.dytt-hot.com/20250418/87162_453f2cc2/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生07
-https://vip.dytt-cinema.com/20250419/20669_f3daeb3f/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生08
-https://vip.dytt-cinema.com/20250419/20670_3dc20e2a/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生09
-https://vip.dytt-cinema.com/20250420/20853_a6df0bdb/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生10
-https://vip.dytt-hot.com/20250420/87233_5c6c2cbf/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生11
-https://vip.dytt-hot.com/20250421/87365_2add3fa4/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生12
-https://vip.dytt-hot.com/20250422/87452_ca145b2c/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生13
-https://vip.dytt-hot.com/20250422/87449_4375e11c/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生14
-https://vip.dytt-cinema.com/20250422/20972_96aa5b78/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生15
-https://vip.dytt-cinema.com/20250423/21018_6395ac11/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生16
-https://vip.dytt-cinema.com/20250423/21017_be846631/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生17
-https://vip.dytt-cinema.com/20250424/21066_432d2189/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生18
-https://vip.dytt-cinema.com/20250424/21067_710049f9/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生19
-https://vip.dytt-hot.com/20250425/87813_ccb8afc9/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生20
-https://vip.dytt-hot.com/20250425/87818_b4ac69b9/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生21
-https://vip.dytt-cinema.com/20250426/21272_f12de388/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生22
-https://vip.dytt-cinema.com/20250426/21275_eb373961/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生23
-https://vip.dytt-cinema.com/20250427/21368_9b389653/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生24
-https://vip.dytt-cinema.com/20250427/21367_a4c2198d/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生25
-https://vip.dytt-cinema.com/20250428/21468_d196f1cd/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生26
-https://vip.dytt-cinema.com/20250428/21467_b83befc6/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生27
-https://vip.dytt-cinema.com/20250429/21561_6fd6b19f/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生28
-https://vip.dytt-cinema.com/20250429/21562_34667ff5/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生29
-https://vip.dytt-hot.com/20250430/88224_293e60f1/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生30
-https://vip.dytt-hot.com/20250430/88225_b691888b/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生31
-https://vip.dytt-hot.com/20250501/88359_d4602908/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生32
-https://vip.dytt-hot.com/20250501/88361_39343b07/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生33
-https://vip.dytt-cinema.com/20250502/21676_d119a020/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生34
-https://vip.dytt-cinema.com/20250502/21675_6b671804/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生35
-https://vip.dytt-cinema.com/20250502/21674_174e501a/index.m3u8
-#EXTINF:-1 tvg-id="蛮好的人生" tvg-name="蛮好的人生" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/蛮好的人生.png" group-title="蛮好的人生",蛮好的人生36
-https://vip.dytt-cinema.com/20250502/21677_43cc251c/index.m3u8
-
-#庆余年
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I01
-https://m3u8.heimuertv.com/play/d131d879a28e45fb9640fca469e534a6.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I02
-https://m3u8.heimuertv.com/play/370a47aea46a4827bc6138c58eb94f7f.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I03
-https://m3u8.heimuertv.com/play/ddcb1f0df85b4198b8aa13d1addadcd8.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I04
-https://m3u8.heimuertv.com/play/f178556772674de59d5f69223162e107.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I05
-https://m3u8.heimuertv.com/play/446c84f5bfa24a358bbce4069684c3a6.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I06
-https://m3u8.heimuertv.com/play/12c8c4c8d48046e79a3c809557964643.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I07
-https://m3u8.heimuertv.com/play/602575041e66416c8e5cadd03c71cd63.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I08
-https://m3u8.heimuertv.com/play/16ae8ed209df4352b709c1e8b6257bf0.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I09
-https://m3u8.heimuertv.com/play/c33905715e154aeeb76de0d657c6263e.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I10
-https://m3u8.heimuertv.com/play/87ebd3e1296243309a7560145106f7f0.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I11
-https://m3u8.heimuertv.com/play/9f942922aee54c36a7fc110189a3f51c.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I12
-https://m3u8.heimuertv.com/play/eef692832e4049e7936adceaafa8d91e.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I13
-https://m3u8.heimuertv.com/play/12ebc2e6d28b4051971770b4f0aad28b.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I14
-https://m3u8.heimuertv.com/play/cceac9743e5a42c792ffec8461f60bc2.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I15
-https://m3u8.heimuertv.com/play/a5672145950546019f68ef9a67ba8937.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I16
-https://m3u8.heimuertv.com/play/c6be5eebef824779b8636c95ba6ce2a8.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I17
-https://m3u8.heimuertv.com/play/485b28d8f83e40488faee9875cc447cd.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I18
-https://m3u8.heimuertv.com/play/b64e39108adf44c6aa2073dbae5283c7.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I19
-https://m3u8.heimuertv.com/play/59cad60098b14642874a5ec144e8e5b1.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I20
-https://m3u8.heimuertv.com/play/a1d0214d7ed74d43a0ca8713afd405f0.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I21
-https://m3u8.heimuertv.com/play/ebd03992824e467ebb50d15e73313dde.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I22
-https://m3u8.heimuertv.com/play/d6534343219d42dab41a00dda38aa9c0.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I23
-https://m3u8.heimuertv.com/play/4b88812713ba43b4bdb915230829a776.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I24
-https://m3u8.heimuertv.com/play/40ab45b59ec343629f4d50832dd29230.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I25
-https://m3u8.heimuertv.com/play/e2beba395365409db83bcbaeae4e29a3.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I26
-https://m3u8.heimuertv.com/play/c5379478131e4d50a0ffa2c34b9cc797.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I27
-https://m3u8.heimuertv.com/play/0afdeb6a29a14f5481d10284d5bfc6e8.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I28
-https://m3u8.heimuertv.com/play/b7c198c84bcc462488c59e627cc2b162.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I29
-https://m3u8.heimuertv.com/play/b93590ee69a74b6da8bb14249af501c6.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I30
-https://m3u8.heimuertv.com/play/9cddd1dfd3314af1a61d372162a237dc.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I31
-https://m3u8.heimuertv.com/play/a34d50732ed6459eab2ec91ab211618f.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I32
-https://m3u8.heimuertv.com/play/b7430c060a384bdeb668ab8de1c39044.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I33
-https://m3u8.heimuertv.com/play/181c3bc477e242bab7c1ccca081423f3.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I34
-https://m3u8.heimuertv.com/play/356b9acf44f24988b2952030fdc8d54b.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I35
-https://m3u8.heimuertv.com/play/a6ed2f30ac054995af7379079402b4e5.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I36
-https://m3u8.heimuertv.com/play/a9f971aff2a34a19b241bafdc0165131.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I37
-https://m3u8.heimuertv.com/play/0182ba51d25647b1a27315bd4ff2e1cd.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I38
-https://m3u8.heimuertv.com/play/01a6b18175274767ac887ea88574efbc.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I39
-https://m3u8.heimuertv.com/play/a16c197024594eff82d94ea4871e033f.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I40
-https://m3u8.heimuertv.com/play/fcb6b0e10bfe42a2adf64a4af7f51d2e.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I41
-https://m3u8.heimuertv.com/play/cede17e643894f22aa9f40a684479191.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I42
-https://m3u8.heimuertv.com/play/92c8da346ddf4c2fa6e07dbf9a0708de.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I43
-https://m3u8.heimuertv.com/play/56da1b7133b4415eb1196b395b2408d9.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I44
-https://m3u8.heimuertv.com/play/42855e32be694319aece935bb3b04042.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I45
-https://m3u8.heimuertv.com/play/d5e816572fe1472dba3033ba3378442b.m3u8
-#EXTINF:-1 tvg-id="庆余年I" tvg-name="庆余年I" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年I.png" group-title="庆余年I",庆余年I46
-https://m3u8.heimuertv.com/play/be8b63233eb94ac98c6ef86ce9396e21.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II01
-https://tyyszywvod5.com/videos/202501/24/6793752f797568812bb103f7/bb9ebf/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II02
-https://tyyszywvod5.com/videos/202501/24/6793755b797568812bb1246d/4034fg/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II03
-https://tyyszywvod5.com/videos/202501/24/67937549797568812bb11737/b73c5f/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II04
-https://tyyszywvod5.com/videos/202501/24/67937575797568812bb13825/763590/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II05
-https://tyyszywvod5.com/videos/202501/24/67937577797568812bb13a53/f7bdg6/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II06
-https://tyyszywvod5.com/videos/202501/24/6793754e797568812bb11ab2/613573/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II07
-https://tyyszywvod5.com/videos/202501/24/67937555797568812bb11ef2/748c06/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II08
-https://tyyszywvod5.com/videos/202501/24/67937551797568812bb11c28/c5f70e/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II09
-https://tyyszywvod5.com/videos/202501/24/67937560797568812bb1285a/e717g7/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II10
-https://tyyszywvod5.com/videos/202501/24/67937551797568812bb11c3d/8f201e/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II11
-https://tyyszywvod5.com/videos/202501/24/67937551797568812bb11c9c/1gfae5/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II12
-https://tyyszywvod5.com/videos/202501/24/6793754d797568812bb11a1b/dcf80f/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II13
-https://tyyszywvod5.com/videos/202501/24/6793756a797568812bb12e87/68gb11/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II14
-https://tyyszywvod5.com/videos/202501/24/67937535797568812bb1079f/24f9fa/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II15
-https://tyyszywvod5.com/videos/202501/24/67937548797568812bb1158f/dfb462/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II16
-https://tyyszywvod5.com/videos/202501/24/67937565797568812bb12b87/46d592/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II17
-https://tyyszywvod5.com/videos/202501/24/67937559797568812bb122bc/346f04/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II18
-https://tyyszywvod5.com/videos/202501/24/679376b2797568812bb1fc6f/06120b/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II19
-https://tyyszywvod5.com/videos/202501/24/67937642797568812bb1b94a/444a1f/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II20
-https://tyyszywvod5.com/videos/202501/25/6794bb9724d8118bb96b4c39/b2gb9b/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II21
-https://tyyszywvod5.com/videos/202501/24/679376d8797568812bb21384/374e2e/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II22
-https://tyyszywvod5.com/videos/202501/24/67937852797568812bb31616/g4g9e2/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II23
-https://tyyszywvod5.com/videos/202501/24/679376bb797568812bb20229/eegg51/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II24
-https://tyyszywvod5.com/videos/202501/24/679376b2797568812bb1fc6e/c02183/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II25
-https://tyyszywvod5.com/videos/202501/24/679376d9797568812bb213f0/67b365/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II26
-https://tyyszywvod5.com/videos/202501/24/679376e1797568812bb2198f/d74d75/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II27
-https://tyyszywvod5.com/videos/202501/24/679376cd797568812bb20e07/c90638/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II28
-https://tyyszywvod5.com/videos/202501/24/679376b5797568812bb1fe96/755cg8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II29
-https://tyyszywvod5.com/videos/202501/24/679376d3797568812bb21072/d2e2d5/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II30
-https://tyyszywvod5.com/videos/202501/24/679376a7797568812bb1f500/e2g639/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II31
-https://tyyszywvod5.com/videos/202501/24/679376cd797568812bb20dd0/0bc793/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II32
-https://tyyszywvod5.com/videos/202501/24/679376bd797568812bb202c7/886f56/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II33
-https://tyyszywvod5.com/videos/202501/24/679376d9797568812bb213a8/a843ab/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II01
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604wlfvIh1Findex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II02
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406042aADFt58index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II03
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604l7jYmSkfindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II04
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604Zu083a7Gindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II05
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604OGyLKuAJindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II06
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604YoFX7j7Qindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II07
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604MyLL3cmLindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II08
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604X0ujcbt5index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II09
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406047MZ301Qkindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II10
-https://p.bvvvvvvvvv1f.com/video/replace0001/202503056XBZOovjindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II11
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604cgwqNNtaindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II12
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604NCMBflW4index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II13
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604sHHtD5byindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II14
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604ro7yWE9eindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II15
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604ShVeCwo6index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II16
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604FNbc88rpindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II17
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406048QP76pwxindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II18
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604lAh2ZhMVindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II19
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604UZg7c1p0index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II20
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406041jIM9yDwindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II21
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604OPjVqErXindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II22
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406044Q2vi1IGindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II23
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604sxElpw5Cindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II24
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406040rSgywisindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II25
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406043riPYIV8index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II26
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406043riPYIV8index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II27
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604SCCPnooHindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II28
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604tppYtDxxindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II29
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604BEO9vXlpindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II30
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604uz3hYfYrindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II31
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604nNMIsnM2index.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II32
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406046fvdRyhrindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II33
-https://c1.ddbbffcdn.com/video/replacesirikk9/202406044FmY71Asindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II34
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604HIJnOUUsindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II35
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604t8bn8ilGindex.m3u8/index.m3u8
-#EXTINF:-1 tvg-id="庆余年II" tvg-name="庆余年II" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/庆余年II.png" group-title="庆余年II",庆余年II36
-https://c1.ddbbffcdn.com/video/replacesirikk9/20240604OUILykQMindex.m3u8/index.m3u8
-
 #音乐频道
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/周杰伦.png" group-title="音乐频道",周杰伦MV
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/kgxcmytv/iptv/main/png/陈奕迅.png" group-title="音乐频道",陈奕迅MV
-http://www.douzhicloud.site:35455/huya/26355846
+https://www.goodiptv.club/huya/26355846
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/音乐.png" group-title="音乐频道",10首车载
 https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4
 #EXTINF:-1 tvg-logo="https://gitee.com/kaige66666/mytv-playlist/raw/master/img/音乐.png" group-title="音乐频道",2018精选十首动感DJ舞曲串烧大碟
